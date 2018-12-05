@@ -1,0 +1,2189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LANGUAGES>
+	
+	<LOCALIZATION name="SPANISH" code="ES">
+		
+		<!-- INGAME TIPS -->
+		<STRING code="TIP_IMPULSE" string="Cuando mates a un monstruo, un número indicará el impulso que ganarás."/>
+		<STRING code="TIP_IMPULSE2" string="El impulso aumenta la distancia entre tú y la Magia oscura que te está persiguiendo."/>
+		<STRING code="TIP_ENEMIES_COMING" string="¡Ten cuidado! ¡Se acercan muchos enemigos!"/>
+		<STRING code="TIP_PERFECT" string="¡Perfecto!"/>
+		<STRING code="TIP_ENEMIES_CAN_ATTACK" string="Algunos enemigos te pueden atacar. ¡Ten cuidado!"/>
+		<STRING code="TIP_WAIT_MOMENT" string="Espera el momento perfecto para atacar."/>
+		<STRING code="TIP_ONE_BY_ONE" string="¡No dejes que te abrumen! Elimínalos uno a la vez..."/>
+		<STRING code="TIP_MAGIC_COMES" string="¡Escapa de la Magia oscura ya mismo!"/>
+		<STRING code="TIP_KILL_BEFORE_ATTACK" string="¡Mátalos antes de que te ataquen!"/>
+		<STRING code="TIP_HOLD" string="¡Resiste!"/>
+		<STRING code="TIP_WAIT_SHIELD_LOWERED" string="¡Aguanta hasta que no tenga escudo!"/>
+		<STRING code="TIP_ATTACK" string="¡Ataca ahora!"/>
+		<STRING code="TIP_WATCH_AROUND" string="¡Ten cuidado!"/>
+		<STRING code="TIP_END_CLOSE" string="¡Ya casi estás!"/>
+		<STRING code="TIP_KEEP_IT" string="¡Bien! ¡No te rindas!"/>
+		<STRING code="TIP_ATTACK_WHEN_POSSIBLE" string="¡Atácale siempre que puedas! ¡Pero ojo a sus habilidades!"/>
+		<STRING code="TIP_HIT_ORB" string="¡Golpea el orbe antes de que estalle!"/>
+		<STRING code="TIP_CHAGING_FORM" string="¡Oh, no! ¡Está cambiando de forma!"/>
+		<STRING code="TIP_REMEMBER" string="¡Recuerda tus batallas anteriores!"/>
+		<STRING code="TIP_OUT_OF ENERGY" string="¡Se está quedando sin energía! ¡Resiste un poco más!"/>
+		<STRING code="TIP_ALL_FORMS" string="¡Zamná quiere usar todas sus formas!"/>
+		
+		<STRING code="TIP_CELESTIAL_FORM" string="¡Oh, no! ¡Zamná revivió!"/>
+		<STRING code="TIP_SUN_FORM" string="¡Zamná no ha muerto!"/>
+		<STRING code="TIP_MOON_FORM" string="¡Zamná ha vuelto! Tal vez sea inmortal..."/>
+		<STRING code="TIP_TIME_FORM" string="Zamná ha vuelto a la batalla, así que será mejor que te prepares."/>
+		<STRING code="TIP_DEITY_FORM" string="Llegó la hora de la  batalla final. ¡Esta vez Zamná no se saldrá con la suya!"/>
+		
+		<STRING code="NEW_TEMPLE_SUN" string="¡Hemos llegado al Templo del Sol!"/>
+		<STRING code="NEW_TEMPLE_MOON" string="Este es el Templo de la Luna. ¡Cuidado! ¡Te aguardan muchos peligros!"/>
+		<STRING code="NEW_TEMPLE_TIME" string="¡Estamos dentro del Templo del tiempo! Ya casi llegas..."/>
+		<STRING code="NEW_TEMPLE_ZAMNA" string="¡Al fin! ¡Por fin hemos llegado al Templo de Zamná!"/>
+		
+		<!-- ITEMS TIPS -->
+		
+		<STRING code="OBJ_DYNAMITE" string="¡Utiliza la dinamita para dañar a todos los enemigos!"/>
+		<STRING code="OBJ_CHICKEN" string="¡La gallina voladora nos ayudará a no caernos!"/>
+		<STRING code="OBJ_BURGER" string="¿Qué tenía esa hamburguesa? Ahora soy mucho más poderoso... ¡Invencible, incluso!"/>
+
+		<!-- REWARDS BOSS -->
+		
+		<STRING code="REWARD_BOSS_HEART" string="¡Tenemos un corazón más por haber derrotado a Zamná!"/>
+		<STRING code="REWARD_BOSS_SPEED" string="Luego de derrotar a Zamná, ¡mi velocidad aumentó!"/>
+		<STRING code="REWARD_BOSS_IMPULSE" string="¡Ahora tendremos más impulso!"/>
+		<STRING code="REWARD_BOSS_EXPLOSIVES" string="¡Mi conocimiento sobre los explosivos ha mejorado!"/>
+		<STRING code="REWARD_BOSS_ATTACK" string="Luego de derrotar a Zamná, ¡soy mucho más fuerte!"/>
+		<STRING code="REWARD_COMPLETE_GAME" string="Has vencido a Zamná completando todos los niveles de Zombie Grave. ¡Intenta completar todos los niveles con 3 estrellas!"/>
+		<STRING code="REWARD_ALL_STARS" string="¡Conseguiste 3 estrellas en todos los niveles! ¡Eres una leyenda viviente! Increíble, ¿no crees?"/>
+		
+		<!-- BUTTONS -->
+		<STRING code="BUTTON_PLAY" string="Jugar"/>
+		<STRING code="BUTTON_NEXT" string="Siguiente"/>
+		<STRING code="BUTTON_FRANK" string="Frank"/>
+		<STRING code="BUTTON_SKIP" string="Omitir"/>
+		<STRING code="BUTTON_CREDITS" string="Créditos"/>
+		<STRING code="BUTTON_OPTIONS" string="Opciones"/>
+		<STRING code="BUTTON_MORE_GAMES" string="Más Juegos"/>
+		
+		<!-- DESCRIPTIONS -->
+		<STRING code="GAME_NAME" string="Zombie Grave"/>
+		<STRING code="BOSS_NAME" string="Zamná"/>
+		<STRING code="ATTRIBUTE_ATTACK" string="Ataque"/>
+		<STRING code="ATTRIBUTE_IMPULSE" string="Impulso"/>
+		<STRING code="ATTRIBUTE_EXPLOSIVES" string="Explosivos"/>
+		<STRING code="ATTRIBUTE_HEART" string="Corazón"/>
+		<STRING code="ATTRIBUTE_SPEED" string="Velocidad"/>
+		<STRING code="DESCRIPTION_IMPULSE" string="La cantidad de altura extra que gana Frank al eliminar a un enemigo"/>
+		<STRING code="DESCRIPTION_DAMAGE" string="Daño que hace Frank y la velocidad a la que golpea"/>
+		<STRING code="DESCRIPTION_HEART" string="Frank puede recibir un impacto por cada corazón que posee"/>
+		<STRING code="DESCRIPTION_EXPLOSIVES" string="Mejora la habilidad con explosivos. La dinamita hace más daño, la explosión inicial es mayor y al volver tras una caída se pierde menos distancia"/>
+		<STRING code="DESCRIPTION_SPEED" string="Velocidad a la que se mueve Frank por el aire."/>
+		<STRING code="TEMPLE_1" string="Templo celestial"/>
+		<STRING code="TEMPLE_2" string="Templo del Sol"/>
+		<STRING code="TEMPLE_3" string="Templo de la Luna"/>
+		<STRING code="TEMPLE_4" string="Templo del Tiempo"/>
+		<STRING code="TEMPLE_5" string="Templo de Zamná"/>
+		
+		<!-- RESULTS MENU -->
+		<STRING code="RESULT_TIME" string="Tiempo:"/>
+		<STRING code="RESULT_ENEMIES" string="Enemigos eliminados"/>
+		<STRING code="RESULT_HITS" string="Golpes recibidos"/>
+		<STRING code="RESULT_DISTANCE" string="Distancia a Magia oscura"/>
+		<STRING code="LEVEL_COMPLETED" string="Nivel completado"/>
+		<STRING code="LEVEL_UNCOMPLETED" string="Fin del juego"/>
+		<STRING code="LEVEL_COMPLETED_1" string="¡Felicitaciones!"/>
+		<STRING code="LEVEL_COMPLETED_2" string="¡Eres el mejor!"/>
+		<STRING code="LEVEL_COMPLETED_3" string="¡Increíble!"/>
+		<STRING code="LEVEL_COMPLETED_4" string="¡Fantástico!"/>
+		<STRING code="LEVEL_COMPLETED_5" string="¡Qué bueno!"/>
+		<STRING code="LEVEL_COMPLETED_6" string="¡Casi!"/>
+		<STRING code="LEVEL_COMPLETED_7" string="¡Bien hecho!"/>
+		<STRING code="LEVEL_COMPLETED_8" string="¡Buen trabajo!"/>
+		<STRING code="LEVEL_UNCOMPLETED_1" string="Has perdido."/>
+		<STRING code="LEVEL_UNCOMPLETED_2" string="¡Que desastre!"/>
+		<STRING code="LEVEL_UNCOMPLETED_3" string="¡Uff!"/>
+		<STRING code="LEVEL_UNCOMPLETED_4" string="¡Ay!"/>
+		
+		<!-- PAUSE MENU -->
+		<STRING code="PAUSE_EXIT_CONFIRM" string="¿Quieres volver al menu?"/>
+		<STRING code="PAUSE_RESTART_CONFIRM" string="¿Quieres reiniciar el nivel?"/>
+		
+		<!-- OPTIONS -->
+		<STRING code="OPTIONS_SOUND" string="Sonido"/>
+		<STRING code="OPTIONS_MUSIC" string="Música"/>
+		<STRING code="OPTIONS_QHIGH" string="Calidad Gráfica - Alta"/>
+		<STRING code="OPTIONS_QLOW" string="Calidad Gráfica - Baja"/>
+		<STRING code="OPTIONS_LANGUAGE" string="Idioma"/>
+		
+		<!-- NOTICES -->
+		<STRING code="NOTICE_GET_STARS" string="¡Consigue 3 estrellas para ganar una Reliquia!"/>
+		<STRING code="NOTICE_ATTACK_RELIC" string="Obtuviste una Reliquia de ataque."/>
+		<STRING code="NOTICE_IMPULSE_RELIC" string="Obtuviste una Reliquia de impulso."/>
+		<STRING code="NOTICE_SPEED_RELIC" string="Obtuviste una Reliquia de velocidad."/>
+		<STRING code="NOTICE_EXPLOSIVE_RELIC" string="Obtuviste una Reliquia explosiva."/>
+		<STRING code="NOTICE_LIFE_RELIC" string="Obtuviste una Reliquia vital."/>
+		<STRING code="NOTICE_TAP_START" string="Toca la pantalla para empezar"/>
+		<STRING code="NOTICE_ATTACK_START" string="Pulsa Atacar para empezar"/>
+		<STRING code="NOTICE_LOADING" string="Cargando..."/>
+		<STRING code="NOTICE_WAIT" string="Espera..."/>
+		<STRING code="NOTICE_CONECCTION_ERROR" string="Error de conexión Vuelve a intentarlo más tarde."/>
+		
+		<!-- TUTORIAL -->
+		<STRING code="TUTORIAL_MOVE_PC" string="Movimiento: Flechas izquierda y derecha / Teclas A y D / Mouse."/>
+		<STRING code="TUTORIAL_MOVE_MOVIL" string="Movimiento: desliza tu dedo por la pantalla."/>
+		<STRING code="TUTORIAL_ATTACK_PC" string="Ataque: Flecha hacia abajo / S / barra espaciadora / clic izquierdo."/>
+		<STRING code="TUTORIAL_ATTACK_MOVIL" string="Toca a un enemigo para atacarlo."/>
+		
+		<!-- CREDITS -->
+		<STRING code="CREDITS_CREATED_BY" string="Creado y desarrollado por"/>
+		<STRING code="CREDITS_WILDBIT" string=" Wildbit Studios"/>
+		<STRING code="CREDITS_LEAD_PROGRAMMER" string="Jefe de programación"/>
+		<STRING code="CREDITS_LEAD_ARTIST" string="Jefe de arte"/>
+		<STRING code="CREDITS_PRODUCER" string="Productor"/>
+		<STRING code="CREDITS_PROJECT_MANAGER" string="Líder del proyecto"/>
+		<STRING code="CREDITS_PROGRAMMING_TEAM" string="Equipo de programación"/>
+		<STRING code="CREDITS_ART_TEAM" string="Equipo de arte"/>
+		<STRING code="CREDITS_GAME_DESIGN" string="Diseño del juego"/>
+		<STRING code="CREDITS_SOUND" string="Sonido"/>
+		<STRING code="CREDITS_MUSIC" string="Música"/>
+		<STRING code="CREDITS_QA" string="Control de calidad"/>
+		<STRING code="CREDITS_THANKS" string="Agradecimientos"/>
+		
+		<!-- LANGUAJES  -->
+		<STRING code="LANGUAJE_UK_EN" string=""/>
+		<STRING code="LANGUAJE_USA_EN" string=""/>
+		<STRING code="LANGUAJE_NL" string=""/>
+		<STRING code="LANGUAJE_FR" string=""/>
+		<STRING code="LANGUAJE_DE" string=""/>
+		<STRING code="LANGUAJE_ES" string=""/>
+		<STRING code="LANGUAJE_BR" string=""/>
+		<STRING code="LANGUAJE_PT" string=""/>
+		<STRING code="LANGUAJE_IT" string=""/>
+		<STRING code="LANGUAJE_SE" string=""/>
+		<STRING code="LANGUAJE_PL" string=""/>
+		<STRING code="LANGUAJE_RU" string=""/>
+		<STRING code="LANGUAJE_ID" string=""/>
+		<STRING code="LANGUAJE_ARABIC" string=""/>
+		<STRING code="LANGUAJE_JP" string=""/>
+		<STRING code="LANGUAJE_CN" string=""/>
+		<STRING code="LANGUAJE_MX" string=""/>
+		<STRING code="LANGUAJE_AR" string=""/>
+		<STRING code="LANGUAJE_TR" string=""/>
+		<STRING code="LANGUAJE_TW" string=""/>
+		
+	</LOCALIZATION>
+	<LOCALIZATION name="ENGLISH" code="EN">
+	
+		<!-- INGAME TIPS -->
+		<STRING code="TIP_IMPULSE" string="When you kill a monster a number will indicate the impulse you'll gain."/>
+		<STRING code="TIP_IMPULSE2" string="Impulse increases the distance between you and the Dark Magic that's chasing you!"/>
+		<STRING code="TIP_ENEMIES_COMING" string="Watch out! Lots of enemies are coming!"/>
+		<STRING code="TIP_PERFECT" string="Perfect!"/>
+		<STRING code="TIP_ENEMIES_CAN_ATTACK" string="Some enemies can attack you! Watch out for them!"/>
+		<STRING code="TIP_WAIT_MOMENT" string="Wait for the perfect moment to attack!"/>
+		<STRING code="TIP_ONE_BY_ONE" string="Don't get overwhelmed! Just get rid of them one at a time..."/>
+		<STRING code="TIP_MAGIC_COMES" string="Escape the Dark Magic's grasp—on the double!"/>
+		<STRING code="TIP_KILL_BEFORE_ATTACK" string="Kill them before they attack you"/>
+		<STRING code="TIP_HOLD" string="Hold on!"/>
+		<STRING code="TIP_WAIT_SHIELD_LOWERED" string="Wait until his shield is lowered!"/>
+		<STRING code="TIP_ATTACK" string="Attack right now!"/>
+		<STRING code="TIP_WATCH_AROUND" string="Watch out!"/>
+		<STRING code="TIP_END_CLOSE" string="Almost there!"/>
+		<STRING code="TIP_KEEP_IT" string="Good! Keep at it!"/>
+		<STRING code="TIP_ATTACK_WHEN_POSSIBLE" string="Attack whenever possible! But watch out for its abilities!"/>
+		<STRING code="TIP_HIT_ORB" string="Hit the orb before it blows up!"/>
+		<STRING code="TIP_CHAGING_FORM" string="Uh-oh! He's changing form!"/>
+		<STRING code="TIP_REMEMBER" string="Remember your previous combats!"/>
+		<STRING code="TIP_OUT_OF ENERGY" string="He's running out of energy! Hang in there just a bit longer!"/>
+		<STRING code="TIP_ALL_FORMS" string="Zamná wants to use all his shapes!"/>
+
+		<STRING code="TIP_CELESTIAL_FORM" string="Oh no! Zamná came back to life!"/>
+		<STRING code="TIP_SUN_FORM" string="Zamná's not dead!"/>
+		<STRING code="TIP_MOON_FORM" string="Zamná has returned! Maybe he's immortal?"/>
+		<STRING code="TIP_TIME_FORM" string="Zamná's back in the fight so you'd better get ready for him!"/>
+		<STRING code="TIP_DEITY_FORM" string="Time for the final battle. Zamná won't get away this time!"/>
+		
+		<STRING code="NEW_TEMPLE_SUN" string="We've reached the Temple of the Sun!"/>
+		<STRING code="NEW_TEMPLE_MOON" string="It's the Temple of the Moon. Beware! Many dangers lie ahead!"/>
+		<STRING code="NEW_TEMPLE_TIME" string="We're inside the Temple of Time! Almost there..."/>
+		<STRING code="NEW_TEMPLE_ZAMNA" string="At last! We've finally reached the Temple of Zamná!"/>
+		
+		<!-- ITEMS TIPS -->
+		
+		<STRING code="OBJ_DYNAMITE" string="Use dynamite to damage all enemies!"/>
+		<STRING code="OBJ_CHICKEN" string="The Flying Chicken will help us not to fall!"/>
+		<STRING code="OBJ_BURGER" string="What was in that burger? I'm much stronger now...maybe even invincible!"/>
+		
+		<!-- REWARDS BOSS -->
+		
+		<STRING code="REWARD_BOSS_HEART" string="We got an extra heart for defeating Zamná!"/>
+		<STRING code="REWARD_BOSS_SPEED" string="After beating Zamná, my speed increased!"/>
+		<STRING code="REWARD_BOSS_IMPULSE" string="Now we'll get more impulse!"/>
+		<STRING code="REWARD_BOSS_EXPLOSIVES" string="My knowledge of explosives has improved!"/>
+		<STRING code="REWARD_BOSS_ATTACK" string="After defeating Zamná, I'm much stronger!"/>
+		<STRING code="REWARD_COMPLETE_GAME" string="You beat Zamná by completing every level of Zombie Grave. Now try winning 3 stars on every level!"/>
+		<STRING code="REWARD_ALL_STARS" string="You scored 3 stars on every level! You're a living legend. Pretty cool, huh?"/>
+		
+		<!-- BUTTONS -->
+		<STRING code="BUTTON_PLAY" string="Play"/>
+		<STRING code="BUTTON_NEXT" string="Next"/>
+		<STRING code="BUTTON_FRANK" string="Frank"/>
+		<STRING code="BUTTON_SKIP" string="Skip"/>
+		<STRING code="BUTTON_CREDITS" string="Credits"/>
+		<STRING code="BUTTON_OPTIONS" string="Options"/>
+		<STRING code="BUTTON_MORE_GAMES" string="More Games"/>
+		
+		<!-- DESCRIPTIONS -->
+		<STRING code="GAME_NAME" string="Zombie Grave"/>
+		<STRING code="BOSS_NAME" string="Zamná"/>
+		<STRING code="ATTRIBUTE_ATTACK" string="Attack"/>
+		<STRING code="ATTRIBUTE_IMPULSE" string="Impulse"/>
+		<STRING code="ATTRIBUTE_EXPLOSIVES" string="Explosives"/>
+		<STRING code="ATTRIBUTE_HEART" string="Heart"/>
+		<STRING code="ATTRIBUTE_SPEED" string="Speed"/>
+		<STRING code="DESCRIPTION_IMPULSE" string="Affects the amount of extra impulse Frank gets after killing an enemy"/>
+		<STRING code="DESCRIPTION_DAMAGE" string="Affects the amount of damage Frank inflicts and combat speed"/>
+		<STRING code="DESCRIPTION_HEART" string="Frank can withstand one hit for every heart he's got"/>
+		<STRING code="DESCRIPTION_EXPLOSIVES" string="Affects Frank's ability with explosives: Dynamite makes more damage, the starting burst is greater and when Frank reappears after falling, he loses less distance."/>
+		<STRING code="DESCRIPTION_SPEED" string="Frank's movement speed on air"/>
+		<STRING code="TEMPLE_1" string="Temple of Sky"/>
+		<STRING code="TEMPLE_2" string="Temple of the Sun"/>
+		<STRING code="TEMPLE_3" string="Temple of the Moon"/>
+		<STRING code="TEMPLE_4" string="Temple of Time"/>
+		<STRING code="TEMPLE_5" string="Temple of Zamná"/>
+		
+		<!-- RESULTS MENU -->
+		<STRING code="RESULT_TIME" string="Time"/>
+		<STRING code="RESULT_ENEMIES" string="Enemies killed"/>
+		<STRING code="RESULT_HITS" string="Hits received"/>
+		<STRING code="RESULT_DISTANCE" string="Distance to Dark Magic"/>
+		<STRING code="LEVEL_COMPLETED" string="Level Complete"/>
+		<STRING code="LEVEL_UNCOMPLETED" string="Game Over"/>
+		<STRING code="LEVEL_COMPLETED_1" string="Congratulations!"/>
+		<STRING code="LEVEL_COMPLETED_2" string="You are the best!"/>
+		<STRING code="LEVEL_COMPLETED_3" string="Amazing!"/>
+		<STRING code="LEVEL_COMPLETED_4" string="Fantastic!"/>
+		<STRING code="LEVEL_COMPLETED_5" string="Nice!"/>
+		<STRING code="LEVEL_COMPLETED_6" string="That was close!"/>
+		<STRING code="LEVEL_COMPLETED_7" string="Well done!"/>
+		<STRING code="LEVEL_COMPLETED_8" string="Good job!"/>
+		<STRING code="LEVEL_UNCOMPLETED_1" string="You lost..."/>
+		<STRING code="LEVEL_UNCOMPLETED_2" string="What a mess!"/>
+		<STRING code="LEVEL_UNCOMPLETED_3" string="Yikes!"/>
+		<STRING code="LEVEL_UNCOMPLETED_4" string="Ouch!"/>
+		
+		<!-- PAUSE MENU -->
+		<STRING code="PAUSE_EXIT_CONFIRM" string="Exit to Menu?"/>
+		<STRING code="PAUSE_RESTART_CONFIRM" string="Restart Level?"/>
+		
+		<!-- OPTIONS -->
+		<STRING code="OPTIONS_SOUND" string="Sound"/>
+		<STRING code="OPTIONS_MUSIC" string="Music"/>
+		<STRING code="OPTIONS_QHIGH" string="Graphic Quality - High"/>
+		<STRING code="OPTIONS_QLOW" string="Graphic Quality - Low"/>
+		<STRING code="OPTIONS_LANGUAGE" string="Language"/>
+		
+		<!-- NOTICES -->
+		<STRING code="NOTICE_GET_STARS" string="Get 3 stars to earn a Relic!"/>
+		<STRING code="NOTICE_ATTACK_RELIC" string="You earned an Attack Relic!"/>
+		<STRING code="NOTICE_IMPULSE_RELIC" string="You earned an Impulse Relic!"/>
+		<STRING code="NOTICE_SPEED_RELIC" string="You earned a Speed Relic!"/>
+		<STRING code="NOTICE_EXPLOSIVE_RELIC" string="You earned an Explosive Relic!"/>
+		<STRING code="NOTICE_LIFE_RELIC" string="You earned a Life Relic!"/>
+		<STRING code="NOTICE_TAP_START" string="Tap the screen to start"/>
+		<STRING code="NOTICE_ATTACK_START" string="Press Attack to start"/>
+		<STRING code="NOTICE_LOADING" string="Loading..."/>
+		<STRING code="NOTICE_WAIT" string="Please Wait..."/>
+		<STRING code="NOTICE_CONECCTION_ERROR" string="Connection error! Please try again later."/>
+		
+		<!-- TUTORIAL -->
+		<STRING code="TUTORIAL_MOVE_PC" string="Move: Left and Right arrows / A and D keys / Mouse."/>
+		<STRING code="TUTORIAL_MOVE_MOVIL" string="Move: swipe your finger across the screen."/>
+		<STRING code="TUTORIAL_ATTACK_PC" string="Attack: Down arrow / S / space bar / left click."/>
+		<STRING code="TUTORIAL_ATTACK_MOVIL" string="Tap on an enemy to attack them."/>
+		
+		<!-- CREDITS -->
+		<STRING code="CREDITS_CREATED_BY" string="Created and Developed by"/>
+		<STRING code="CREDITS_WILDBIT" string="Wildbit Studios"/>
+		<STRING code="CREDITS_LEAD_PROGRAMMER" string="Lead Programmer"/>
+		<STRING code="CREDITS_LEAD_ARTIST" string="Lead Artist"/>
+		<STRING code="CREDITS_PRODUCER" string="Producer"/>
+		<STRING code="CREDITS_PROJECT_MANAGER" string="Project Manager"/>
+		<STRING code="CREDITS_PROGRAMMING_TEAM" string="Programming Team"/>
+		<STRING code="CREDITS_ART_TEAM" string="Art Team "/>
+		<STRING code="CREDITS_GAME_DESIGN" string="Game Design"/>
+		<STRING code="CREDITS_SOUND" string="Sound"/>
+		<STRING code="CREDITS_MUSIC" string="Music"/>
+		<STRING code="CREDITS_QA" string="Q&amp;A"/>
+		<STRING code="CREDITS_THANKS" string="Thanks to"/>
+		
+		<!-- LANGUAJES  -->
+		<STRING code="LANGUAJE_UK_EN" string=""/>
+		<STRING code="LANGUAJE_USA_EN" string=""/>
+		<STRING code="LANGUAJE_NL" string=""/>
+		<STRING code="LANGUAJE_FR" string=""/>
+		<STRING code="LANGUAJE_DE" string=""/>
+		<STRING code="LANGUAJE_ES" string=""/>
+		<STRING code="LANGUAJE_BR" string=""/>
+		<STRING code="LANGUAJE_PT" string=""/>
+		<STRING code="LANGUAJE_IT" string=""/>
+		<STRING code="LANGUAJE_SE" string=""/>
+		<STRING code="LANGUAJE_PL" string=""/>
+		<STRING code="LANGUAJE_RU" string=""/>
+		<STRING code="LANGUAJE_ID" string=""/>
+		<STRING code="LANGUAJE_ARABIC" string=""/>
+		<STRING code="LANGUAJE_JP" string=""/>
+		<STRING code="LANGUAJE_CN" string=""/>
+		<STRING code="LANGUAJE_MX" string=""/>
+		<STRING code="LANGUAJE_AR" string=""/>
+		<STRING code="LANGUAJE_TR" string=""/>
+		<STRING code="LANGUAJE_TW" string=""/>
+		
+	</LOCALIZATION>
+	<LOCALIZATION name="RUSSIAN" code="RU">
+	
+		<!-- INGAME TIPS -->
+		<STRING code="TIP_IMPULSE" string="После убийства чудовища появится число, обозначающее полученный импульс."/>
+		<STRING code="TIP_IMPULSE2" string="Импульс увеличивает расстояние между тобой и преследующей тебя черной магией!"/>
+		<STRING code="TIP_ENEMIES_COMING" string="Берегись! Надвигается множество врагов!"/>
+		<STRING code="TIP_PERFECT" string="Превосходно!"/>
+		<STRING code="TIP_ENEMIES_CAN_ATTACK" string="Некоторые враги могут напасть! Берегись!"/>
+		<STRING code="TIP_WAIT_MOMENT" string="Дождись подходящего момента для атаки!"/>
+		<STRING code="TIP_ONE_BY_ONE" string="Не дай врагам окружить себя! Просто убивай их по одному..."/>
+		<STRING code="TIP_MAGIC_COMES" string="Вырвись из хватки черной магии — удвой отрыв!"/>
+		<STRING code="TIP_KILL_BEFORE_ATTACK" string="Убивай до того, как убьют тебя!"/>
+		<STRING code="TIP_HOLD" string="Подожди..."/>
+		<STRING code="TIP_WAIT_SHIELD_LOWERED" string="Wait until his shield is lowered!"/>
+		<STRING code="TIP_ATTACK" string="Теперь атакуй!"/>
+		<STRING code="TIP_WATCH_AROUND" string="Берегись!"/>
+		<STRING code="TIP_END_CLOSE" string="Осталось совсем чуть-чуть!"/>
+		<STRING code="TIP_KEEP_IT" string="Хорошо! Продолжай в том же духе!"/>
+		<STRING code="TIP_ATTACK_WHEN_POSSIBLE" string="Атакуй при первой возможности! Но не забывай о силе врагов!"/>
+		<STRING code="TIP_HIT_ORB" string="Ударь сферу до того, как она разлетится!"/>
+		<STRING code="TIP_CHAGING_FORM" string="Ох-ох! Он меняет форму!"/>
+		<STRING code="TIP_REMEMBER" string="Вспомни о предыдущих битвах!"/>
+		<STRING code="TIP_OUT_OF ENERGY" string="У него заканчивается энергия! Продержись еще чуть-чуть!"/>
+		<STRING code="TIP_ALL_FORMS" string="Zamná wants to use all his shapes!"/>
+
+		<STRING code="TIP_CELESTIAL_FORM" string="О нет! Ицамна пробудился!"/>
+		<STRING code="TIP_SUN_FORM" string="Ицамна восстал из мертвых!"/>
+		<STRING code="TIP_MOON_FORM" string="Ицамна вернулся! Может быть, он бессмертен?"/>
+		<STRING code="TIP_TIME_FORM" string="Ицамна присоединился к сражению, приготовься!"/>
+		<STRING code="TIP_DEITY_FORM" string="Это последняя битва. На этот раз Ицамна не уйдет!"/>
+		
+		<STRING code="NEW_TEMPLE_SUN" string="Мы добрались до храма Солнца."/>
+		<STRING code="NEW_TEMPLE_MOON" string="Это храм Луны. Осторожно! Впереди много опасностей!"/>
+		<STRING code="NEW_TEMPLE_TIME" string="Мы внутри храма Времени. Почти у цели..."/>
+		<STRING code="NEW_TEMPLE_ZAMNA" string="Наконец-то! Мы добрались до храма Ицамны."/>
+		
+		<!-- ITEMS TIPS -->
+		
+		<STRING code="OBJ_DYNAMITE" string="Примени динамит против врагов!"/>
+		<STRING code="OBJ_CHICKEN" string="Летающий цыпленок — действительно сильное оружие. Если он у нас, мы не имеем права проиграть!"/>
+		<STRING code="OBJ_BURGER" string="Из чего был тот гамбургер? Теперь я намного сильнее... может быть, даже неуязвим!"/>
+		
+		<!-- REWARDS BOSS -->
+		
+		<STRING code="REWARD_BOSS_HEART" string="После победы над Ицамной ты получаешь дополнительное сердце!"/>
+		<STRING code="REWARD_BOSS_SPEED" string="После победы над Ицамной моя скорость увеличилась!"/>
+		<STRING code="REWARD_BOSS_IMPULSE" string="Теперь у нас больше импульса!"/>
+		<STRING code="REWARD_BOSS_EXPLOSIVES" string="Я больше знаю о взрывчатке!"/>
+		<STRING code="REWARD_BOSS_ATTACK" string="После победы над Ицамной моя сила возросла!"/>
+		<STRING code="REWARD_COMPLETE_GAME" string="Пройдя все уровни игры Могила зомби, ты победишь Ицамну. Попытайся заработать по 3 звезды на каждом уровне!"/>
+		<STRING code="REWARD_ALL_STARS" string="Заработано по 3 звезды на каждом уровне! Ты теперь живая легенда. Весьма интересно, м?"/>
+		
+		<!-- BUTTONS -->
+		<STRING code="BUTTON_PLAY" string="Играть"/>
+		<STRING code="BUTTON_NEXT" string="Далее"/>
+		<STRING code="BUTTON_FRANK" string="Frank"/>
+		<STRING code="BUTTON_SKIP" string="Skip"/>
+		<STRING code="BUTTON_CREDITS" string="Авторы"/>
+		<STRING code="BUTTON_OPTIONS" string="Options"/>
+		<STRING code="BUTTON_MORE_GAMES" string="Еще игры"/>
+		
+		<!-- DESCRIPTIONS -->
+		<STRING code="GAME_NAME" string="Могила зомби"/>
+		<STRING code="BOSS_NAME" string="Zamná"/>
+		<STRING code="ATTRIBUTE_ATTACK" string="Attack"/>
+		<STRING code="ATTRIBUTE_IMPULSE" string="Impulse"/>
+		<STRING code="ATTRIBUTE_EXPLOSIVES" string="Explosives"/>
+		<STRING code="ATTRIBUTE_HEART" string="Heart"/>
+		<STRING code="ATTRIBUTE_SPEED" string="Speed"/>
+		<STRING code="DESCRIPTION_IMPULSE" string="Affects the amount of extra impulse Frank gets after killing an enemy"/>
+		<STRING code="DESCRIPTION_DAMAGE" string="Affects the amount of damage Frank inflicts and combat speed"/>
+		<STRING code="DESCRIPTION_HEART" string="Frank can withstand one hit for every heart he's got"/>
+		<STRING code="DESCRIPTION_EXPLOSIVES" string="Affects Frank's ability with explosives: Dynamite makes more damage, the starting burst is greater and when Frank reappears after falling, he loses less distance."/>
+		<STRING code="DESCRIPTION_SPEED" string="Frank's movement speed on air"/>
+		<STRING code="TEMPLE_1" string="Храм Неба"/>
+		<STRING code="TEMPLE_2" string="Храм Солнца"/>
+		<STRING code="TEMPLE_3" string="Храм Луны"/>
+		<STRING code="TEMPLE_4" string="Храм Времени"/>
+		<STRING code="TEMPLE_5" string="Храм Ицамны"/>
+		
+		<!-- RESULTS MENU -->
+		<STRING code="RESULT_TIME" string="Время"/>
+		<STRING code="RESULT_ENEMIES" string="Убито врагов"/>
+		<STRING code="RESULT_HITS" string="Пропущено ударов"/>
+		<STRING code="RESULT_DISTANCE" string="Отрыв от Черной магии"/>
+		<STRING code="LEVEL_COMPLETED" string="Уровень пройден"/>
+		<STRING code="LEVEL_UNCOMPLETED" string="Игра окончена"/>
+		<STRING code="LEVEL_COMPLETED_1" string="Поздравляем!"/>
+		<STRING code="LEVEL_COMPLETED_2" string="Заявка на победу!"/>
+		<STRING code="LEVEL_COMPLETED_3" string="Потрясающе!"/>
+		<STRING code="LEVEL_COMPLETED_4" string="Отлично!"/>
+		<STRING code="LEVEL_COMPLETED_5" string="Замечательно!"/>
+		<STRING code="LEVEL_COMPLETED_6" string="Пронесло!"/>
+		<STRING code="LEVEL_COMPLETED_7" string="Превосходно!"/>
+		<STRING code="LEVEL_COMPLETED_8" string="Неплохо!"/>
+		<STRING code="LEVEL_UNCOMPLETED_1" string="Проигрыш..."/>
+		<STRING code="LEVEL_UNCOMPLETED_2" string="Ну и дела!"/>
+		<STRING code="LEVEL_UNCOMPLETED_3" string="Ой!"/>
+		<STRING code="LEVEL_UNCOMPLETED_4" string="Ай!"/>
+		
+		<!-- PAUSE MENU -->
+		<STRING code="PAUSE_EXIT_CONFIRM" string="Выйти в меню?"/>
+		<STRING code="PAUSE_RESTART_CONFIRM" string="Начать уровень заново?"/>
+		
+		<!-- OPTIONS -->
+		<STRING code="OPTIONS_SOUND" string="Sound"/>
+		<STRING code="OPTIONS_MUSIC" string="Music"/>
+		<STRING code="OPTIONS_QHIGH" string="Graphic Quality - High"/>
+		<STRING code="OPTIONS_QLOW" string="Graphic Quality - Low"/>
+		<STRING code="OPTIONS_LANGUAGE" string="Language"/>
+		
+		<!-- NOTICES -->
+		<STRING code="NOTICE_GET_STARS" string="Найди три звезды, чтобы получить реликвию!"/>
+		<STRING code="NOTICE_ATTACK_RELIC" string="Тебе досталась реликвия атаки!"/>
+		<STRING code="NOTICE_IMPULSE_RELIC" string="Тебе досталась реликвия импульса!"/>
+		<STRING code="NOTICE_SPEED_RELIC" string="Тебе досталась реликвия скорости!"/>
+		<STRING code="NOTICE_EXPLOSIVE_RELIC" string="Тебе досталась реликвия взрыва!"/>
+		<STRING code="NOTICE_LIFE_RELIC" string="Тебе досталась реликвия жизни!"/>
+		<STRING code="NOTICE_TAP_START" string="Коснись экрана, чтобы начать."/>
+		<STRING code="NOTICE_ATTACK_START" string="Нажми Атака, чтобы начать."/>
+		<STRING code="NOTICE_LOADING" string="Загрузка..."/>
+		<STRING code="NOTICE_WAIT" string="Подожди..."/>
+		<STRING code="NOTICE_CONECCTION_ERROR" string="Ошибка соединения Попробуй еще раз позже."/>
+		
+		<!-- TUTORIAL -->
+		<STRING code="TUTORIAL_MOVE_PC" string="Движение: стрелки влево и вправо / клавиши A и D / мышь."/>
+		<STRING code="TUTORIAL_MOVE_MOVIL" string="Движение: проведи пальцем по экрану."/>
+		<STRING code="TUTORIAL_ATTACK_PC" string="Атака: стрелка вниз / S / пробел / щелчок левой клавишей мыши."/>
+		<STRING code="TUTORIAL_ATTACK_MOVIL" string="Коснись врага, чтобы атаковать его."/>
+		
+		<!-- CREDITS -->
+		<STRING code="CREDITS_CREATED_BY" string="Создатели и разработчики"/>
+		<STRING code="CREDITS_WILDBIT" string="Wildbit Studios"/>
+		<STRING code="CREDITS_LEAD_PROGRAMMER" string="Ведущий программист"/>
+		<STRING code="CREDITS_LEAD_ARTIST" string="Ведущий художник"/>
+		<STRING code="CREDITS_PRODUCER" string="Продюсер"/>
+		<STRING code="CREDITS_PROJECT_MANAGER" string="Руководитель проекта"/>
+		<STRING code="CREDITS_PROGRAMMING_TEAM" string="Команда программистов"/>
+		<STRING code="CREDITS_ART_TEAM" string="Команда художников"/>
+		<STRING code="CREDITS_GAME_DESIGN" string="Разработчик"/>
+		<STRING code="CREDITS_SOUND" string="Звук"/>
+		<STRING code="CREDITS_MUSIC" string="Музыка"/>
+		<STRING code="CREDITS_QA" string="Вопросы и ответы"/>
+		<STRING code="CREDITS_THANKS" string="Благодарности"/>
+		
+		<!-- LANGUAJES  -->
+		<STRING code="LANGUAJE_UK_EN" string=""/>
+		<STRING code="LANGUAJE_USA_EN" string=""/>
+		<STRING code="LANGUAJE_NL" string=""/>
+		<STRING code="LANGUAJE_FR" string=""/>
+		<STRING code="LANGUAJE_DE" string=""/>
+		<STRING code="LANGUAJE_ES" string=""/>
+		<STRING code="LANGUAJE_BR" string=""/>
+		<STRING code="LANGUAJE_PT" string=""/>
+		<STRING code="LANGUAJE_IT" string=""/>
+		<STRING code="LANGUAJE_SE" string=""/>
+		<STRING code="LANGUAJE_PL" string=""/>
+		<STRING code="LANGUAJE_RU" string=""/>
+		<STRING code="LANGUAJE_ID" string=""/>
+		<STRING code="LANGUAJE_ARABIC" string=""/>
+		<STRING code="LANGUAJE_JP" string=""/>
+		<STRING code="LANGUAJE_CN" string=""/>
+		<STRING code="LANGUAJE_MX" string=""/>
+		<STRING code="LANGUAJE_AR" string=""/>
+		<STRING code="LANGUAJE_TR" string=""/>
+		<STRING code="LANGUAJE_TW" string=""/>
+		
+	</LOCALIZATION>
+	<LOCALIZATION name="TURKISH" code="TR">
+	
+		<!-- INGAME TIPS -->
+		<STRING code="TIP_IMPULSE" string="Bir canavarı öldürdüğünde, bir sayı kazanacağın itkiyi gösterecek."/>
+		<STRING code="TIP_IMPULSE2" string="İtki, arkadan gelen Kara Büyü ile arandaki mesafeyi artırır!"/>
+		<STRING code="TIP_ENEMIES_COMING" string="Dikkat et! Bir sürü düşman geliyor!"/>
+		<STRING code="TIP_PERFECT" string="Mükemmel!"/>
+		<STRING code="TIP_ENEMIES_CAN_ATTACK" string="Bazı düşmanlar saldırabilir! Onlara dikkat et!"/>
+		<STRING code="TIP_WAIT_MOMENT" string="Saldırmak için en iyi anı bekle!"/>
+		<STRING code="TIP_ONE_BY_ONE" string="Şaşırıp kalma sakın! Tek seferde bir tanesi olacak şekilde onlardan kurtul..."/>
+		<STRING code="TIP_MAGIC_COMES" string="Kara Büyüden kaç, hem de hızlı bir şekilde!"/>
+		<STRING code="TIP_KILL_BEFORE_ATTACK" string="Seni öldürmeden önce onları öldür!"/>
+		<STRING code="TIP_HOLD" string="Bekle..."/>
+		<STRING code="TIP_WAIT_SHIELD_LOWERED" string="Wait until his shield is lowered!"/>
+		<STRING code="TIP_ATTACK" string="Şimdi saldır!"/>
+		<STRING code="TIP_WATCH_AROUND" string="Dikkat et!"/>
+		<STRING code="TIP_END_CLOSE" string="Başardın sayılır!"/>
+		<STRING code="TIP_KEEP_IT" string="Güzel! Aynen devam et!"/>
+		<STRING code="TIP_ATTACK_WHEN_POSSIBLE" string="Mümkün olduğunda saldır! Ama düşmanların yeteneklerine dikkat et!"/>
+		<STRING code="TIP_HIT_ORB" string="Patlamadan önce küreyi vur!"/>
+		<STRING code="TIP_CHAGING_FORM" string="He's changing his form!"/>
+		<STRING code="TIP_REMEMBER" string="Önceki muharebelerini hatırla!"/>
+		<STRING code="TIP_OUT_OF ENERGY" string="Enerjisi tükeniyor! Birazcık daha dayan!"/>
+		<STRING code="TIP_ALL_FORMS" string="Zamná wants to use all his shapes!"/>
+
+		<STRING code="TIP_CELESTIAL_FORM" string="Olamaz! Zamná tekrar dirildi!"/>
+		<STRING code="TIP_SUN_FORM" string="Zamná ölmemiş!"/>
+		<STRING code="TIP_MOON_FORM" string="Zamná geri döndü! Belki de ölümsüzdür, ne dersin?"/>
+		<STRING code="TIP_TIME_FORM" string="Zamná savaşa geri döndü; ondan kurtulsan iyi olur!"/>
+		<STRING code="TIP_DEITY_FORM" string="Son muharebenin zamanı geldi. Zamná bu sefer kurtulamayacak!"/>
+		
+		<STRING code="NEW_TEMPLE_SUN" string="Güneş Tapınağına eriştik!"/>
+		<STRING code="NEW_TEMPLE_MOON" string="Bu, Ay Tapınağı. Dikkatli ol! Önünde bir sürü tehlike var!"/>
+		<STRING code="NEW_TEMPLE_TIME" string="Zaman Tapınağının içindeyiz! Başardın sayılır..."/>
+		<STRING code="NEW_TEMPLE_ZAMNA" string="Nihayet! Nihayet Zamná Tapınağı'na ulaştık!"/>
+		
+		<!-- ITEMS TIPS -->
+		
+		<STRING code="OBJ_DYNAMITE" string="Bu düşmanlara karşı dinamit kullan!"/>
+		<STRING code="OBJ_CHICKEN" string="Uçan Tavuk, oldukça güçlü bir silahtır. O bizim tarafımızdayken başarısız olmamız imkânsız!"/>
+		<STRING code="OBJ_BURGER" string="O hamburgerin içinde ne vardı öyle? Şu anda çok daha güçlüyüm... Yenilmez bile olabilirim!"/>
+		
+		<!-- REWARDS BOSS -->
+		
+		<STRING code="REWARD_BOSS_HEART" string="Zamná'yı yenmek için fazladan bir kalbimiz oldu!"/>
+		<STRING code="REWARD_BOSS_SPEED" string="Zamná'yı yendikten sonra hızım arttı!"/>
+		<STRING code="REWARD_BOSS_IMPULSE" string="Artık daha çok itki alacağız!"/>
+		<STRING code="REWARD_BOSS_EXPLOSIVES" string="Patlayıcılarla ilgili daha çok bilgi sahibi oldum!"/>
+		<STRING code="REWARD_BOSS_ATTACK" string="Zamná'yı yendikten sonra çok daha güçlü hale geldim!"/>
+		<STRING code="REWARD_COMPLETE_GAME" string="Zombi Mezarı'nın tüm seviyelerini tamamlayarak Zamná'yı yendin. Şimdi de her seviyede 3'er yıldız kazanmayı dene!"/>
+		<STRING code="REWARD_ALL_STARS" string="Her seviyede 3'er yıldız kazandın! Sen bir yaşayan efsanesin. Ne kadar süper, değil mi?"/>
+		
+		<!-- BUTTONS -->
+		<STRING code="BUTTON_PLAY" string="Oyna"/>
+		<STRING code="BUTTON_NEXT" string="İleri"/>
+		<STRING code="BUTTON_FRANK" string="Frank"/>
+		<STRING code="BUTTON_SKIP" string="Skip"/>
+		<STRING code="BUTTON_CREDITS" string="Hazırlayanlar"/>
+		<STRING code="BUTTON_OPTIONS" string="Options"/>
+		<STRING code="BUTTON_MORE_GAMES" string="Diğer Oyunlar"/>
+		
+		<!-- DESCRIPTIONS -->
+		<STRING code="GAME_NAME" string="Zombi Mezarı"/>
+		<STRING code="BOSS_NAME" string="Zamná"/>
+		<STRING code="ATTRIBUTE_ATTACK" string="Attack"/>
+		<STRING code="ATTRIBUTE_IMPULSE" string="Impulse"/>
+		<STRING code="ATTRIBUTE_EXPLOSIVES" string="Explosives"/>
+		<STRING code="ATTRIBUTE_HEART" string="Heart"/>
+		<STRING code="ATTRIBUTE_SPEED" string="Speed"/>
+		<STRING code="DESCRIPTION_IMPULSE" string="Affects the amount of extra impulse Frank gets after killing an enemy"/>
+		<STRING code="DESCRIPTION_DAMAGE" string="Affects the amount of damage Frank inflicts and combat speed"/>
+		<STRING code="DESCRIPTION_HEART" string="Frank can withstand one hit for every heart he's got"/>
+		<STRING code="DESCRIPTION_EXPLOSIVES" string="Affects Frank's ability with explosives: Dynamite makes more damage, the starting burst is greater and when Frank reappears after falling, he loses less distance."/>
+		<STRING code="DESCRIPTION_SPEED" string="Frank's movement speed on air"/>
+		<STRING code="TEMPLE_1" string="Gökyüzü Tapınağı"/>
+		<STRING code="TEMPLE_2" string="Güneş Tapınağı"/>
+		<STRING code="TEMPLE_3" string="Ay Tapınağı"/>
+		<STRING code="TEMPLE_4" string="Zaman Tapınağı"/>
+		<STRING code="TEMPLE_5" string="Zamná Tapınağı"/>
+		
+		<!-- RESULTS MENU -->
+		<STRING code="RESULT_TIME" string="Süre"/>
+		<STRING code="RESULT_ENEMIES" string="Öldürülen Düşmanlar"/>
+		<STRING code="RESULT_HITS" string="Alınan Vuruşlar"/>
+		<STRING code="RESULT_DISTANCE" string="Kara Büyüye olan Mesafe"/>
+		<STRING code="LEVEL_COMPLETED" string="Seviye Tamamlandı"/>
+		<STRING code="LEVEL_UNCOMPLETED" string="Oyun Bitti"/>
+		<STRING code="LEVEL_COMPLETED_1" string="Tebrikler!"/>
+		<STRING code="LEVEL_COMPLETED_2" string="Senden daha iyisi yok!"/>
+		<STRING code="LEVEL_COMPLETED_3" string="İnanılmaz!"/>
+		<STRING code="LEVEL_COMPLETED_4" string="Muhteşem!"/>
+		<STRING code="LEVEL_COMPLETED_5" string="Güzel!"/>
+		<STRING code="LEVEL_COMPLETED_6" string="Ucuz atlattın!"/>
+		<STRING code="LEVEL_COMPLETED_7" string="Aferin!"/>
+		<STRING code="LEVEL_COMPLETED_8" string="Bravo!"/>
+		<STRING code="LEVEL_UNCOMPLETED_1" string="Kaybettin..."/>
+		<STRING code="LEVEL_UNCOMPLETED_2" string="Şu karışıklığa bak!"/>
+		<STRING code="LEVEL_UNCOMPLETED_3" string="Iyy!"/>
+		<STRING code="LEVEL_UNCOMPLETED_4" string="Of!"/>
+		
+		<!-- PAUSE MENU -->
+		<STRING code="PAUSE_EXIT_CONFIRM" string="Çıkıp Menü'ye gidilsin mi?"/>
+		<STRING code="PAUSE_RESTART_CONFIRM" string="Seviye Baştan Başlatılsın mı?"/>
+		
+		<!-- OPTIONS -->
+		<STRING code="OPTIONS_SOUND" string="Sound"/>
+		<STRING code="OPTIONS_MUSIC" string="Music"/>
+		<STRING code="OPTIONS_QHIGH" string="Graphic Quality - High"/>
+		<STRING code="OPTIONS_QLOW" string="Graphic Quality - Low"/>
+		<STRING code="OPTIONS_LANGUAGE" string="Language"/>
+		
+		<!-- NOTICES -->
+		<STRING code="NOTICE_GET_STARS" string="Bir Yâdigar kazanmak için üç yıldız bul!"/>
+		<STRING code="NOTICE_ATTACK_RELIC" string="Bir Saldırı Yâdigarı kazandın!"/>
+		<STRING code="NOTICE_IMPULSE_RELIC" string="Bir İtki Yâdigarı kazandın!"/>
+		<STRING code="NOTICE_SPEED_RELIC" string="Bir Hız Yâdigarı kazandın!"/>
+		<STRING code="NOTICE_EXPLOSIVE_RELIC" string="Bir Patlayıcı Yâdigarı kazandın!!"/>
+		<STRING code="NOTICE_LIFE_RELIC" string="Bir Hayat Yâdigarı kazandın!"/>
+		<STRING code="NOTICE_TAP_START" string="Başlamak için ekrana dokun."/>
+		<STRING code="NOTICE_ATTACK_START" string="Başlamak için Saldır'a bas."/>
+		<STRING code="NOTICE_LOADING" string="Yükleniyor..."/>
+		<STRING code="NOTICE_WAIT" string="Lütfen Bekle..."/>
+		<STRING code="NOTICE_CONECCTION_ERROR" string="Bağlantı hatası! Lütfen daha sonra tekrar dene."/>
+		
+		<!-- TUTORIAL -->
+		<STRING code="TUTORIAL_MOVE_PC" string="Hareket Etme: Sol ve Sağ oklar / A ve D tuşları / Fare."/>
+		<STRING code="TUTORIAL_MOVE_MOVIL" string="Hareket Etme: Parmağını ekranda kaydır."/>
+		<STRING code="TUTORIAL_ATTACK_PC" string="Saldırma: Aşağı ok / S / boşluk tuşu / sol tıklama."/>
+		<STRING code="TUTORIAL_ATTACK_MOVIL" string="Saldırmak için bir düşmana dokun."/>
+		
+		<!-- CREDITS -->
+		<STRING code="CREDITS_CREATED_BY" string="Oluşturup Geliştiren:"/>
+		<STRING code="CREDITS_WILDBIT" string="Wildbit Studios"/>
+		<STRING code="CREDITS_LEAD_PROGRAMMER" string="Baş Programcı"/>
+		<STRING code="CREDITS_LEAD_ARTIST" string="Baş Artist"/>
+		<STRING code="CREDITS_PRODUCER" string="Üretici"/>
+		<STRING code="CREDITS_PROJECT_MANAGER" string="Proje Yöneticisi"/>
+		<STRING code="CREDITS_PROGRAMMING_TEAM" string="Programlama Ekibi"/>
+		<STRING code="CREDITS_ART_TEAM" string="Çizim Ekibi"/>
+		<STRING code="CREDITS_GAME_DESIGN" string="Oyun Tasarımı"/>
+		<STRING code="CREDITS_SOUND" string="Ses"/>
+		<STRING code="CREDITS_MUSIC" string="Müzik"/>
+		<STRING code="CREDITS_QA" string="S/C"/>
+		<STRING code="CREDITS_THANKS" string="Teşekkürler:"/>
+		
+		<!-- LANGUAJES  -->
+		<STRING code="LANGUAJE_UK_EN" string=""/>
+		<STRING code="LANGUAJE_USA_EN" string=""/>
+		<STRING code="LANGUAJE_NL" string=""/>
+		<STRING code="LANGUAJE_FR" string=""/>
+		<STRING code="LANGUAJE_DE" string=""/>
+		<STRING code="LANGUAJE_ES" string=""/>
+		<STRING code="LANGUAJE_BR" string=""/>
+		<STRING code="LANGUAJE_PT" string=""/>
+		<STRING code="LANGUAJE_IT" string=""/>
+		<STRING code="LANGUAJE_SE" string=""/>
+		<STRING code="LANGUAJE_PL" string=""/>
+		<STRING code="LANGUAJE_RU" string=""/>
+		<STRING code="LANGUAJE_ID" string=""/>
+		<STRING code="LANGUAJE_ARABIC" string=""/>
+		<STRING code="LANGUAJE_JP" string=""/>
+		<STRING code="LANGUAJE_CN" string=""/>
+		<STRING code="LANGUAJE_MX" string=""/>
+		<STRING code="LANGUAJE_AR" string=""/>
+		<STRING code="LANGUAJE_TR" string=""/>
+		<STRING code="LANGUAJE_TW" string=""/>
+		
+	</LOCALIZATION>
+	<LOCALIZATION name="SWEDISH" code="SV">
+	
+		<!-- INGAME TIPS -->
+		<STRING code="TIP_IMPULSE" string="När du dödar ett monster visar en siffra vilket avstånd du har vunnit."/>
+		<STRING code="TIP_IMPULSE2" string="Avstånd ökar sträckan mellan dig och den mörka magin som jagar dig!"/>
+		<STRING code="TIP_ENEMIES_COMING" string="Se upp! Massor av fiender närmar sig!"/>
+		<STRING code="TIP_PERFECT" string="Perfekt!"/>
+		<STRING code="TIP_ENEMIES_CAN_ATTACK" string="Vissa fiender kan attackera! Se upp för dem!"/>
+		<STRING code="TIP_WAIT_MOMENT" string="Invänta rätt ögonblick för din attack!"/>
+		<STRING code="TIP_ONE_BY_ONE" string="Bli inte överväldigad! Förinta dem en efter en ..."/>
+		<STRING code="TIP_MAGIC_COMES" string="Fly från den mörka magins klor – med språng!"/>
+		<STRING code="TIP_KILL_BEFORE_ATTACK" string="Döda dem innan de dödar dig!"/>
+		<STRING code="TIP_HOLD" string="Vänta ..."/>
+		<STRING code="TIP_WAIT_SHIELD_LOWERED" string="Wait until his shield is lowered!"/>
+		<STRING code="TIP_ATTACK" string="Attackera nu!"/>
+		<STRING code="TIP_WATCH_AROUND" string="Se upp!"/>
+		<STRING code="TIP_END_CLOSE" string="Nästan framme!"/>
+		<STRING code="TIP_KEEP_IT" string="Bra! Fortsätt kämpa!"/>
+		<STRING code="TIP_ATTACK_WHEN_POSSIBLE" string="Attackera när du kan! Men se upp för fiendens förmågor!"/>
+		<STRING code="TIP_HIT_ORB" string="Träffa klotet innan det exploderar!"/>
+		<STRING code="TIP_CHAGING_FORM" string="Åh nej! Han ändrar skepnad!"/>
+		<STRING code="TIP_REMEMBER" string="Kom ihåg dina tidigare strider!"/>
+		<STRING code="TIP_OUT_OF ENERGY" string="Hans energi börjar ta slut! Håll ut lite längre!"/>
+		<STRING code="TIP_ALL_FORMS" string="Zamná wants to use all his shapes!"/>
+
+		<STRING code="TIP_CELESTIAL_FORM" string="Åh nej! Zamná har vaknat till liv igen!"/>
+		<STRING code="TIP_SUN_FORM" string="Zamná är inte död!"/>
+		<STRING code="TIP_MOON_FORM" string="Zamná är tillbaka! Han kanske är odödlig?"/>
+		<STRING code="TIP_TIME_FORM" string="Zamná är tillbaka i striden, så gör dig redo för honom!"/>
+		<STRING code="TIP_DEITY_FORM" string="Det är dags för den sista striden. Den här gången kommer Zamná inte undan!"/>
+		
+		<STRING code="NEW_TEMPLE_SUN" string="Vi har nått fram till Soltemplet!"/>
+		<STRING code="NEW_TEMPLE_MOON" string="Det är Måntemplet. Se upp! Många faror väntar!"/>
+		<STRING code="NEW_TEMPLE_TIME" string="Vi är inuti Tidstemplet! Nästan framme ..."/>
+		<STRING code="NEW_TEMPLE_ZAMNA" string="Äntligen! Till slut har vi nått fram till Zamnátemplet!"/>
+		
+		<!-- ITEMS TIPS -->
+		
+		<STRING code="OBJ_DYNAMITE" string="Använd dynamit mot de där fienderna!"/>
+		<STRING code="OBJ_CHICKEN" string="Den flygande kycklingen är verkligen ett kraftfullt vapen. Vi kan inte misslyckas när vi har det!"/>
+		<STRING code="OBJ_BURGER" string="Vad innehöll den där hamburgaren? Jag är mycket starkare nu ... kanske även osynlig!"/>
+		
+		<!-- REWARDS BOSS -->
+		
+		<STRING code="REWARD_BOSS_HEART" string="Vi fick ett extra hjärta för segern över Zamná!"/>
+		<STRING code="REWARD_BOSS_SPEED" string="Efter segern över Zamná har min snabbhet ökat!"/>
+		<STRING code="REWARD_BOSS_IMPULSE" string="Nu kommer vi att få mer avstånd!"/>
+		<STRING code="REWARD_BOSS_EXPLOSIVES" string="Min kunskap om sprängmedel har ökat!"/>
+		<STRING code="REWARD_BOSS_ATTACK" string="Efter segern över Zamná har jag blivit mycket starkare!"/>
+		<STRING code="REWARD_COMPLETE_GAME" string="Du besegrade Zamná genom att slutföra alla nivåer i Zombiegraven. Försök nu att få tre stjärnor på alla nivåer!"/>
+		<STRING code="REWARD_ALL_STARS" string="Du fick tre stjärnor på alla nivåer! Du är en levande legend. Ganska coolt, eller hur?"/>
+		
+		<!-- BUTTONS -->
+		<STRING code="BUTTON_PLAY" string="Spela"/>
+		<STRING code="BUTTON_NEXT" string="Nästa"/>
+		<STRING code="BUTTON_FRANK" string="Frank"/>
+		<STRING code="BUTTON_SKIP" string="Skip"/>
+		<STRING code="BUTTON_CREDITS" string="Upphovsmän"/>
+		<STRING code="BUTTON_OPTIONS" string="Options"/>
+		<STRING code="BUTTON_MORE_GAMES" string="Fler spel"/>
+		
+		<!-- DESCRIPTIONS -->
+		<STRING code="GAME_NAME" string="Zombiegraven"/>
+		<STRING code="BOSS_NAME" string="Zamná"/>
+		<STRING code="ATTRIBUTE_ATTACK" string="Attack"/>
+		<STRING code="ATTRIBUTE_IMPULSE" string="Impulse"/>
+		<STRING code="ATTRIBUTE_EXPLOSIVES" string="Explosives"/>
+		<STRING code="ATTRIBUTE_HEART" string="Heart"/>
+		<STRING code="ATTRIBUTE_SPEED" string="Speed"/>
+		<STRING code="DESCRIPTION_IMPULSE" string="Affects the amount of extra impulse Frank gets after killing an enemy"/>
+		<STRING code="DESCRIPTION_DAMAGE" string="Affects the amount of damage Frank inflicts and combat speed"/>
+		<STRING code="DESCRIPTION_HEART" string="Frank can withstand one hit for every heart he's got"/>
+		<STRING code="DESCRIPTION_EXPLOSIVES" string="Affects Frank's ability with explosives: Dynamite makes more damage, the starting burst is greater and when Frank reappears after falling, he loses less distance."/>
+		<STRING code="DESCRIPTION_SPEED" string="Frank's movement speed on air"/>
+		<STRING code="TEMPLE_1" string="Himmelstemplet"/>
+		<STRING code="TEMPLE_2" string="Soltemplet"/>
+		<STRING code="TEMPLE_3" string="Måntemplet"/>
+		<STRING code="TEMPLE_4" string="Tidstemplet"/>
+		<STRING code="TEMPLE_5" string="Zamnátemplet"/>
+		
+		<!-- RESULTS MENU -->
+		<STRING code="RESULT_TIME" string="Tid"/>
+		<STRING code="RESULT_ENEMIES" string="Dödade fiender"/>
+		<STRING code="RESULT_HITS" string="Träffar mottagna"/>
+		<STRING code="RESULT_DISTANCE" string="Avstånd till mörk magi"/>
+		<STRING code="LEVEL_COMPLETED" string="Nivån är avklarad"/>
+		<STRING code="LEVEL_UNCOMPLETED" string="Spelet är slut"/>
+		<STRING code="LEVEL_COMPLETED_1" string="Grattis!"/>
+		<STRING code="LEVEL_COMPLETED_2" string="Du är bäst!"/>
+		<STRING code="LEVEL_COMPLETED_3" string="Helt otroligt!"/>
+		<STRING code="LEVEL_COMPLETED_4" string="Superbra!"/>
+		<STRING code="LEVEL_COMPLETED_5" string="Snyggt!"/>
+		<STRING code="LEVEL_COMPLETED_6" string="Det var nära ögat!"/>
+		<STRING code="LEVEL_COMPLETED_7" string="Bra gjort!"/>
+		<STRING code="LEVEL_COMPLETED_8" string="Bra jobbat!"/>
+		<STRING code="LEVEL_UNCOMPLETED_1" string="Du förlorade."/>
+		<STRING code="LEVEL_UNCOMPLETED_2" string="En sån röra!"/>
+		<STRING code="LEVEL_UNCOMPLETED_3" string="Usch!"/>
+		<STRING code="LEVEL_UNCOMPLETED_4" string="Aj!"/>
+		
+		<!-- PAUSE MENU -->
+		<STRING code="PAUSE_EXIT_CONFIRM" string="Avsluta och gå till menyn?"/>
+		<STRING code="PAUSE_RESTART_CONFIRM" string="Starta om nivå?"/>
+		
+		<!-- OPTIONS -->
+		<STRING code="OPTIONS_SOUND" string="Sound"/>
+		<STRING code="OPTIONS_MUSIC" string="Music"/>
+		<STRING code="OPTIONS_QHIGH" string="Graphic Quality - High"/>
+		<STRING code="OPTIONS_QLOW" string="Graphic Quality - Low"/>
+		<STRING code="OPTIONS_LANGUAGE" string="Language"/>
+		
+		<!-- NOTICES -->
+		<STRING code="NOTICE_GET_STARS" string="Hitta tre stjärnor för att få en relik!"/>
+		<STRING code="NOTICE_ATTACK_RELIC" string="Du fick en attackrelik!!"/>
+		<STRING code="NOTICE_IMPULSE_RELIC" string="Du fick en avståndsrelik!"/>
+		<STRING code="NOTICE_SPEED_RELIC" string="Du fick en snabbhetsrelik!"/>
+		<STRING code="NOTICE_EXPLOSIVE_RELIC" string="Du fick en dynamitrelik!"/>
+		<STRING code="NOTICE_LIFE_RELIC" string="Du fick en livsrelik!"/>
+		<STRING code="NOTICE_TAP_START" string="Tryck på skärmen för att starta."/>
+		<STRING code="NOTICE_ATTACK_START" string="Tryck på attack för att starta."/>
+		<STRING code="NOTICE_LOADING" string="Läser in ..."/>
+		<STRING code="NOTICE_WAIT" string="Vänta ..."/>
+		<STRING code="NOTICE_CONECCTION_ERROR" string="Anslutningsfel! Försök igen senare."/>
+		
+		<!-- TUTORIAL -->
+		<STRING code="TUTORIAL_MOVE_PC" string="Gå: Vänsterpil och högerpil / A- och D-tangenter / Mus."/>
+		<STRING code="TUTORIAL_MOVE_MOVIL" string="Gå: Dra med fingret över skärmen."/>
+		<STRING code="TUTORIAL_ATTACK_PC" string="Attackera: Nedåtpil / S / mellanslag / vänsterklicka."/>
+		<STRING code="TUTORIAL_ATTACK_MOVIL" string="Tryck på en fiende för att attackera den."/>
+		
+		<!-- CREDITS -->
+		<STRING code="CREDITS_CREATED_BY" string="Skapat och utvecklat av"/>
+		<STRING code="CREDITS_WILDBIT" string="Wildbit Studios"/>
+		<STRING code="CREDITS_LEAD_PROGRAMMER" string="Huvudprogrammerare"/>
+		<STRING code="CREDITS_LEAD_ARTIST" string="Artdirector"/>
+		<STRING code="CREDITS_PRODUCER" string="Producent"/>
+		<STRING code="CREDITS_PROJECT_MANAGER" string="Projektledare"/>
+		<STRING code="CREDITS_PROGRAMMING_TEAM" string="Programmeringsteam"/>
+		<STRING code="CREDITS_ART_TEAM" string="Konstteam"/>
+		<STRING code="CREDITS_GAME_DESIGN" string="Speldesign"/>
+		<STRING code="CREDITS_SOUND" string="Ljud"/>
+		<STRING code="CREDITS_MUSIC" string="Musik"/>
+		<STRING code="CREDITS_QA" string="Frågor och svar"/>
+		<STRING code="CREDITS_THANKS" string="Tack till:"/>
+		
+		<!-- LANGUAJES  -->
+		<STRING code="LANGUAJE_UK_EN" string=""/>
+		<STRING code="LANGUAJE_USA_EN" string=""/>
+		<STRING code="LANGUAJE_NL" string=""/>
+		<STRING code="LANGUAJE_FR" string=""/>
+		<STRING code="LANGUAJE_DE" string=""/>
+		<STRING code="LANGUAJE_ES" string=""/>
+		<STRING code="LANGUAJE_BR" string=""/>
+		<STRING code="LANGUAJE_PT" string=""/>
+		<STRING code="LANGUAJE_IT" string=""/>
+		<STRING code="LANGUAJE_SE" string=""/>
+		<STRING code="LANGUAJE_PL" string=""/>
+		<STRING code="LANGUAJE_RU" string=""/>
+		<STRING code="LANGUAJE_ID" string=""/>
+		<STRING code="LANGUAJE_ARABIC" string=""/>
+		<STRING code="LANGUAJE_JP" string=""/>
+		<STRING code="LANGUAJE_CN" string=""/>
+		<STRING code="LANGUAJE_MX" string=""/>
+		<STRING code="LANGUAJE_AR" string=""/>
+		<STRING code="LANGUAJE_TR" string=""/>
+		<STRING code="LANGUAJE_TW" string=""/>
+		
+	</LOCALIZATION>
+	<LOCALIZATION name="BRAZILIAN" code="PT">
+	
+		<!-- INGAME TIPS -->
+		<STRING code="TIP_IMPULSE" string="Quando você matar um monstro, um número indicará quanto impulso você recebeu."/>
+		<STRING code="TIP_IMPULSE2" string="O Impulso aumenta a distância entre você e a Magia Negra que o está perseguindo!"/>
+		<STRING code="TIP_ENEMIES_COMING" string="Cuidado! Há muitos inimigos se aproximando!"/>
+		<STRING code="TIP_PERFECT" string="Perfeito!"/>
+		<STRING code="TIP_ENEMIES_CAN_ATTACK" string="Alguns inimigos podem atacá-lo! Cuidado com eles!"/>
+		<STRING code="TIP_WAIT_MOMENT" string="Espere o momento certo para atacar!"/>
+		<STRING code="TIP_ONE_BY_ONE" string="Não fique sobrecarregado! Livre-se deles, um de cada vez..."/>
+		<STRING code="TIP_MAGIC_COMES" string="Fuja da Magia Negra, o mais rápido que puder!"/>
+		<STRING code="TIP_KILL_BEFORE_ATTACK" string="Mate-os antes que eles matem você!"/>
+		<STRING code="TIP_HOLD" string="Espere..."/>
+		<STRING code="TIP_WAIT_SHIELD_LOWERED" string="Wait until his shield is lowered!"/>
+		<STRING code="TIP_ATTACK" string="Ataque agora!"/>
+		<STRING code="TIP_WATCH_AROUND" string="Cuidado!"/>
+		<STRING code="TIP_END_CLOSE" string="Quase lá!"/>
+		<STRING code="TIP_KEEP_IT" string="Bom! Continue assim!"/>
+		<STRING code="TIP_ATTACK_WHEN_POSSIBLE" string="Ataque sempre que puder! Tome cuidado com as habilidades dos inimigos!"/>
+		<STRING code="TIP_HIT_ORB" string="Acerte a esfera antes que ela exploda!"/>
+		<STRING code="TIP_CHAGING_FORM" string="Oh, não! Ele está mudando de forma!"/>
+		<STRING code="TIP_REMEMBER" string="Lembre-se de suas batalhas anteriores!"/>
+		<STRING code="TIP_OUT_OF ENERGY" string="Ele está ficando sem energia! Aguente um pouquinho mais!"/>
+		<STRING code="TIP_ALL_FORMS" string="Zamná wants to use all his shapes!"/>
+
+		<STRING code="TIP_CELESTIAL_FORM" string="Não!! Zamná voltou à vida!"/>
+		<STRING code="TIP_SUN_FORM" string="Zamná não está morto!"/>
+		<STRING code="TIP_MOON_FORM" string="Zamná retornou! Será que ele é imortal?"/>
+		<STRING code="TIP_TIME_FORM" string="Zamná está de volta à luta, é melhor se preparar para ele!"/>
+		<STRING code="TIP_DEITY_FORM" string="Chegou a hora da batalha final. Zamná não vai fugir desta vez!"/>
+		
+		<STRING code="NEW_TEMPLE_SUN" string="Chegamos ao Templo do Sol!"/>
+		<STRING code="NEW_TEMPLE_MOON" string="Este é o Templo da Lua. Cuidado! Há muitos perigos à frente!"/>
+		<STRING code="NEW_TEMPLE_TIME" string="Estamos dentro do Templo do Tempo! Quase lá..."/>
+		<STRING code="NEW_TEMPLE_ZAMNA" string="Enfim! Finalmente chegamos ao Templo de Zamná!"/>
+		
+		<!-- ITEMS TIPS -->
+		
+		<STRING code="OBJ_DYNAMITE" string="Use dinamite contra esses inimigos!"/>
+		<STRING code="OBJ_CHICKEN" string="A Galinha Voadora é mesmo uma arma poderosa. Não seremos derrotados, tendo ela ao nosso lado!"/>
+		<STRING code="OBJ_BURGER" string="O que tinha naquele hambúrguer? Estou muito mais forte agora... quase invencível!"/>
+		
+		<!-- REWARDS BOSS -->
+		
+		<STRING code="REWARD_BOSS_HEART" string="Temos um coração extra por derrotar Zamná!"/>
+		<STRING code="REWARD_BOSS_SPEED" string="Depois de derrotar Zamná, minha velocidade aumentou!"/>
+		<STRING code="REWARD_BOSS_IMPULSE" string="Agora teremos mais impulso!"/>
+		<STRING code="REWARD_BOSS_EXPLOSIVES" string="Meu conhecimento de explosivos aumentou!"/>
+		<STRING code="REWARD_BOSS_ATTACK" string="Depois de derrotar Zamná, estou muto mais forte!"/>
+		<STRING code="REWARD_COMPLETE_GAME" string="Você derrota Zamná ao completar todos os níveis de Zombie Grave. Agora tente ganhar 3 estrelas em cada nível!"/>
+		<STRING code="REWARD_ALL_STARS" string="Você ganhou 3 estrelas em todos os níveis! Você é uma lenda viva. Bem legal, não?"/>
+		
+		<!-- BUTTONS -->
+		<STRING code="BUTTON_PLAY" string="Jogar"/>
+		<STRING code="BUTTON_NEXT" string="Avançar"/>
+		<STRING code="BUTTON_FRANK" string="Frank"/>
+		<STRING code="BUTTON_SKIP" string="Skip"/>
+		<STRING code="BUTTON_CREDITS" string="Créditos"/>
+		<STRING code="BUTTON_OPTIONS" string="Options"/>
+		<STRING code="BUTTON_MORE_GAMES" string="Mais jogos"/>
+		
+		<!-- DESCRIPTIONS -->
+		<STRING code="GAME_NAME" string="Zombie Grave"/>
+		<STRING code="BOSS_NAME" string="Zamná"/>
+		<STRING code="ATTRIBUTE_ATTACK" string="Attack"/>
+		<STRING code="ATTRIBUTE_IMPULSE" string="Impulse"/>
+		<STRING code="ATTRIBUTE_EXPLOSIVES" string="Explosives"/>
+		<STRING code="ATTRIBUTE_HEART" string="Heart"/>
+		<STRING code="ATTRIBUTE_SPEED" string="Speed"/>
+		<STRING code="DESCRIPTION_IMPULSE" string="Affects the amount of extra impulse Frank gets after killing an enemy"/>
+		<STRING code="DESCRIPTION_DAMAGE" string="Affects the amount of damage Frank inflicts and combat speed"/>
+		<STRING code="DESCRIPTION_HEART" string="Frank can withstand one hit for every heart he's got"/>
+		<STRING code="DESCRIPTION_EXPLOSIVES" string="Affects Frank's ability with explosives: Dynamite makes more damage, the starting burst is greater and when Frank reappears after falling, he loses less distance."/>
+		<STRING code="DESCRIPTION_SPEED" string="Frank's movement speed on air"/>
+		<STRING code="TEMPLE_1" string="Templo do Céu"/>
+		<STRING code="TEMPLE_2" string="Templo do Sol"/>
+		<STRING code="TEMPLE_3" string="Templo da Lua"/>
+		<STRING code="TEMPLE_4" string="Templo do Tempo"/>
+		<STRING code="TEMPLE_5" string="Templo de Zamná"/>
+		
+		<!-- RESULTS MENU -->
+		<STRING code="RESULT_TIME" string="Tempo"/>
+		<STRING code="RESULT_ENEMIES" string="Inimigos mortos"/>
+		<STRING code="RESULT_HITS" string="Ataques recebidos"/>
+		<STRING code="RESULT_DISTANCE" string="Distância da Magia Negra"/>
+		<STRING code="LEVEL_COMPLETED" string="Nível concluído"/>
+		<STRING code="LEVEL_UNCOMPLETED" string="Fim do jogo"/>
+		<STRING code="LEVEL_COMPLETED_1" string="Parabéns!"/>
+		<STRING code="LEVEL_COMPLETED_2" string="Você é o melhor!"/>
+		<STRING code="LEVEL_COMPLETED_3" string="Incrível!"/>
+		<STRING code="LEVEL_COMPLETED_4" string="Fantástico!"/>
+		<STRING code="LEVEL_COMPLETED_5" string="Legal!"/>
+		<STRING code="LEVEL_COMPLETED_6" string="Foi por pouco!"/>
+		<STRING code="LEVEL_COMPLETED_7" string="Muito bem!"/>
+		<STRING code="LEVEL_COMPLETED_8" string="Bom trabalho!"/>
+		<STRING code="LEVEL_UNCOMPLETED_1" string="Você perdeu..."/>
+		<STRING code="LEVEL_UNCOMPLETED_2" string="Que bagunça!"/>
+		<STRING code="LEVEL_UNCOMPLETED_3" string="Ei!"/>
+		<STRING code="LEVEL_UNCOMPLETED_4" string="Ui!"/>
+		
+		<!-- PAUSE MENU -->
+		<STRING code="PAUSE_EXIT_CONFIRM" string="Sair para o Menu?"/>
+		<STRING code="PAUSE_RESTART_CONFIRM" string="Reiniciar nível?"/>
+		
+		<!-- OPTIONS -->
+		<STRING code="OPTIONS_SOUND" string="Sound"/>
+		<STRING code="OPTIONS_MUSIC" string="Music"/>
+		<STRING code="OPTIONS_QHIGH" string="Graphic Quality - High"/>
+		<STRING code="OPTIONS_QLOW" string="Graphic Quality - Low"/>
+		<STRING code="OPTIONS_LANGUAGE" string="Language"/>
+		
+		<!-- NOTICES -->
+		<STRING code="NOTICE_GET_STARS" string="Encontre três estrelas para ganhar uma Relíquia!"/>
+		<STRING code="NOTICE_ATTACK_RELIC" string="Você ganhou uma Relíquia de Ataque!"/>
+		<STRING code="NOTICE_IMPULSE_RELIC" string="Você ganhou uma Relíquia de Impulso!"/>
+		<STRING code="NOTICE_SPEED_RELIC" string="Você ganhou uma Relíquia de Velocidade!"/>
+		<STRING code="NOTICE_EXPLOSIVE_RELIC" string="Você ganhou uma Relíquia Explosiva!"/>
+		<STRING code="NOTICE_LIFE_RELIC" string="Você ganhou uma Relíquia da Vida!"/>
+		<STRING code="NOTICE_TAP_START" string="Toque na tela para começar."/>
+		<STRING code="NOTICE_ATTACK_START" string="Aperte Ataque para começar."/>
+		<STRING code="NOTICE_LOADING" string="Carregando…"/>
+		<STRING code="NOTICE_WAIT" string="Aguarde..."/>
+		<STRING code="NOTICE_CONECCTION_ERROR" string="Erro de conexão! Tente de novo mais tarde."/>
+		
+		<!-- TUTORIAL -->
+		<STRING code="TUTORIAL_MOVE_PC" string="Mover: setas Esquerda e Direita / teclas A e D / Mouse."/>
+		<STRING code="TUTORIAL_MOVE_MOVIL" string="Mover: deslize o dedo pela tela."/>
+		<STRING code="TUTORIAL_ATTACK_PC" string="Atacar: seta para Baixo / S / barra de espaço / clique esquerdo."/>
+		<STRING code="TUTORIAL_ATTACK_MOVIL" string="Toque no inimigo para atacá-lo."/>
+		
+		<!-- CREDITS -->
+		<STRING code="CREDITS_CREATED_BY" string="Criado e desenvolvido por"/>
+		<STRING code="CREDITS_WILDBIT" string="Wildbit Studios"/>
+		<STRING code="CREDITS_LEAD_PROGRAMMER" string="Chefe de Programação"/>
+		<STRING code="CREDITS_LEAD_ARTIST" string="Chefe de Arte"/>
+		<STRING code="CREDITS_PRODUCER" string="Produtor"/>
+		<STRING code="CREDITS_PROJECT_MANAGER" string="Gerente de projeto"/>
+		<STRING code="CREDITS_PROGRAMMING_TEAM" string="Equipe de programação"/>
+		<STRING code="CREDITS_ART_TEAM" string="Equipe de arte"/>
+		<STRING code="CREDITS_GAME_DESIGN" string="Design do jogo"/>
+		<STRING code="CREDITS_SOUND" string="Som"/>
+		<STRING code="CREDITS_MUSIC" string="Música"/>
+		<STRING code="CREDITS_QA" string="Perguntas e Respostas"/>
+		<STRING code="CREDITS_THANKS" string="Agradecimentos a:"/>
+		
+		<!-- LANGUAJES  -->
+		<STRING code="LANGUAJE_UK_EN" string=""/>
+		<STRING code="LANGUAJE_USA_EN" string=""/>
+		<STRING code="LANGUAJE_NL" string=""/>
+		<STRING code="LANGUAJE_FR" string=""/>
+		<STRING code="LANGUAJE_DE" string=""/>
+		<STRING code="LANGUAJE_ES" string=""/>
+		<STRING code="LANGUAJE_BR" string=""/>
+		<STRING code="LANGUAJE_PT" string=""/>
+		<STRING code="LANGUAJE_IT" string=""/>
+		<STRING code="LANGUAJE_SE" string=""/>
+		<STRING code="LANGUAJE_PL" string=""/>
+		<STRING code="LANGUAJE_RU" string=""/>
+		<STRING code="LANGUAJE_ID" string=""/>
+		<STRING code="LANGUAJE_ARABIC" string=""/>
+		<STRING code="LANGUAJE_JP" string=""/>
+		<STRING code="LANGUAJE_CN" string=""/>
+		<STRING code="LANGUAJE_MX" string=""/>
+		<STRING code="LANGUAJE_AR" string=""/>
+		<STRING code="LANGUAJE_TR" string=""/>
+		<STRING code="LANGUAJE_TW" string=""/>
+		
+	</LOCALIZATION>
+	<LOCALIZATION name="POLISH" code="PL">
+	
+		<!-- INGAME TIPS -->
+		<STRING code="TIP_IMPULSE" string="Kiedy zabijesz potwora, cyfra wskaże impuls, jaki otrzymasz."/>
+		<STRING code="TIP_IMPULSE2" string="Impuls zwiększa odległość między Tobą, a ścigającą Cię Magią mroku!"/>
+		<STRING code="TIP_ENEMIES_COMING" string="Strzeż się! Nadchodzi horda wrogów."/>
+		<STRING code="TIP_PERFECT" string="Doskonale!"/>
+		<STRING code="TIP_ENEMIES_CAN_ATTACK" string="Pewni wrogowie mogą Cię zaatakować! Uważaj!"/>
+		<STRING code="TIP_WAIT_MOMENT" string="Zaczekaj na najlepszy moment, aby zaatakować!"/>
+		<STRING code="TIP_ONE_BY_ONE" string="Nie pozwól, by ich liczebność Cię przytłoczyła! Likwiduj ich jeden po drugim..."/>
+		<STRING code="TIP_MAGIC_COMES" string="Uciekaj przed uściskiem Magii mroku, szybko!"/>
+		<STRING code="TIP_KILL_BEFORE_ATTACK" string="Zabij ich, zanim oni zabiją Ciebie!"/>
+		<STRING code="TIP_HOLD" string="Zaczekaj..."/>
+		<STRING code="TIP_WAIT_SHIELD_LOWERED" string="Wait until his shield is lowered!"/>
+		<STRING code="TIP_ATTACK" string="Atakuj teraz!"/>
+		<STRING code="TIP_WATCH_AROUND" string="Uważaj!"/>
+		<STRING code="TIP_END_CLOSE" string="Już prawie!"/>
+		<STRING code="TIP_KEEP_IT" string="Dobrze! Tak trzymaj!"/>
+		<STRING code="TIP_ATTACK_WHEN_POSSIBLE" string="Atakuj, kiedy tylko możesz! Ale uważaj na umiejętności wrogów!"/>
+		<STRING code="TIP_HIT_ORB" string="Traf w kulę, zanim wybuchnie!"/>
+		<STRING code="TIP_CHAGING_FORM" string="Ojej! On zmienia postać!"/>
+		<STRING code="TIP_REMEMBER" string="Zapamiętaj swoje poprzednie bitwy!"/>
+		<STRING code="TIP_OUT_OF ENERGY" string="Kończy mu się energia! Zaczekaj jeszcze trochę!"/>
+		<STRING code="TIP_ALL_FORMS" string="Zamná wants to use all his shapes!"/>
+
+		<STRING code="TIP_CELESTIAL_FORM" string="O nie! Zamná ożył!"/>
+		<STRING code="TIP_SUN_FORM" string="Zamná wcale nie jest martwy!"/>
+		<STRING code="TIP_MOON_FORM" string="Zamná powrócił! Może jest nieśmiertelny?"/>
+		<STRING code="TIP_TIME_FORM" string="Zamná powrócił do walki, więc lepiej się przygotuj!"/>
+		<STRING code="TIP_DEITY_FORM" string="Czas na ostateczną bitwę. Tym razem Zamná nie ucieknie!"/>
+		
+		<STRING code="NEW_TEMPLE_SUN" string="Dotarliśmy do Świątyni Słońca!"/>
+		<STRING code="NEW_TEMPLE_MOON" string="Oto Świątynia Księżyca. Strzeż się! Przed Tobą wiele niebezpieczeństw!"/>
+		<STRING code="NEW_TEMPLE_TIME" string="Jesteśmy w Świątyni Czasu! To prawie już..."/>
+		<STRING code="NEW_TEMPLE_ZAMNA" string="Nareszcie! Dotarliśmy w końcu do Świątyni Zamný!"/>
+		
+		<!-- ITEMS TIPS -->
+		
+		<STRING code="OBJ_DYNAMITE" string="Użyj dynamitu przeciwko tym wrogom!"/>
+		<STRING code="OBJ_CHICKEN" string="Latający kurczak to naprawdę potężna broń. On pozwoli nam wygrać!"/>
+		<STRING code="OBJ_BURGER" string="Co było w tym burgerze? Jestem teraz znacznie silniejszy... może nawet niepokonany!"/>
+		
+		<!-- REWARDS BOSS -->
+		
+		<STRING code="REWARD_BOSS_HEART" string="Dostaliśmy dodatkowe serduszko za pokonanie Zamný!"/>
+		<STRING code="REWARD_BOSS_SPEED" string="Po pokonaniu Zamný moja szybkość wzrosła!"/>
+		<STRING code="REWARD_BOSS_IMPULSE" string="Teraz otrzymamy większy impuls!"/>
+		<STRING code="REWARD_BOSS_EXPLOSIVES" string="Moja wiedza o materiałach wybuchowych zwiększyła się!"/>
+		<STRING code="REWARD_BOSS_ATTACK" string="Po pokonaniu Zamný jestem znacznie silniejszy!"/>
+		<STRING code="REWARD_COMPLETE_GAME" string="Zamná zostanie pokonany, jeśli ukończysz wszystkie poziomy gry Mogiła zombie. Teraz spróbuj uzyskać 3 gwiazdki na każdym poziomie!"/>
+		<STRING code="REWARD_ALL_STARS" string="Otrzymałeś 3 gwiazdki na każdym poziomie! Jesteś żywą legendą. Czadowo, nie?"/>
+		
+		<!-- BUTTONS -->
+		<STRING code="BUTTON_PLAY" string="Zagraj"/>
+		<STRING code="BUTTON_NEXT" string="Dalej"/>
+		<STRING code="BUTTON_FRANK" string="Frank"/>
+		<STRING code="BUTTON_SKIP" string="Skip"/>
+		<STRING code="BUTTON_CREDITS" string="Autorzy"/>
+		<STRING code="BUTTON_OPTIONS" string="Options"/>
+		<STRING code="BUTTON_MORE_GAMES" string="Więcej gier"/>
+		
+		<!-- DESCRIPTIONS -->
+		<STRING code="GAME_NAME" string="Mogiła zombie"/>
+		<STRING code="BOSS_NAME" string="Zamná"/>
+		<STRING code="ATTRIBUTE_ATTACK" string="Attack"/>
+		<STRING code="ATTRIBUTE_IMPULSE" string="Impulse"/>
+		<STRING code="ATTRIBUTE_EXPLOSIVES" string="Explosives"/>
+		<STRING code="ATTRIBUTE_HEART" string="Heart"/>
+		<STRING code="ATTRIBUTE_SPEED" string="Speed"/>
+		<STRING code="DESCRIPTION_IMPULSE" string="Affects the amount of extra impulse Frank gets after killing an enemy"/>
+		<STRING code="DESCRIPTION_DAMAGE" string="Affects the amount of damage Frank inflicts and combat speed"/>
+		<STRING code="DESCRIPTION_HEART" string="Frank can withstand one hit for every heart he's got"/>
+		<STRING code="DESCRIPTION_EXPLOSIVES" string="Affects Frank's ability with explosives: Dynamite makes more damage, the starting burst is greater and when Frank reappears after falling, he loses less distance."/>
+		<STRING code="DESCRIPTION_SPEED" string="Frank's movement speed on air"/>
+		<STRING code="TEMPLE_1" string="Świątynia Nieba"/>
+		<STRING code="TEMPLE_2" string="Świątynia Słońca"/>
+		<STRING code="TEMPLE_3" string="Świątynia Księżyca"/>
+		<STRING code="TEMPLE_4" string="Świątynia Czasu"/>
+		<STRING code="TEMPLE_5" string="Świątynia Zamny"/>
+		
+		<!-- RESULTS MENU -->
+		<STRING code="RESULT_TIME" string="Czas"/>
+		<STRING code="RESULT_ENEMIES" string="Zabici wrogowie"/>
+		<STRING code="RESULT_HITS" string="Otrzymane ciosy"/>
+		<STRING code="RESULT_DISTANCE" string="Odległość od Magii Mroku"/>
+		<STRING code="LEVEL_COMPLETED" string="Poziom ukończony"/>
+		<STRING code="LEVEL_UNCOMPLETED" string="Koniec gry"/>
+		<STRING code="LEVEL_COMPLETED_1" string="Gratulacje!"/>
+		<STRING code="LEVEL_COMPLETED_2" string="Rządzisz!"/>
+		<STRING code="LEVEL_COMPLETED_3" string="Niesamowite!"/>
+		<STRING code="LEVEL_COMPLETED_4" string="Fantastycznie!"/>
+		<STRING code="LEVEL_COMPLETED_5" string="Nieźle!"/>
+		<STRING code="LEVEL_COMPLETED_6" string="Było blisko!"/>
+		<STRING code="LEVEL_COMPLETED_7" string="Bardzo dobrze!"/>
+		<STRING code="LEVEL_COMPLETED_8" string="Dobra robota!"/>
+		<STRING code="LEVEL_UNCOMPLETED_1" string="Porażka..."/>
+		<STRING code="LEVEL_UNCOMPLETED_2" string="Ale bałagan!"/>
+		<STRING code="LEVEL_UNCOMPLETED_3" string="O rany!"/>
+		<STRING code="LEVEL_UNCOMPLETED_4" string="Auu!"/>
+		
+		<!-- PAUSE MENU -->
+		<STRING code="PAUSE_EXIT_CONFIRM" string="Wyjść do menu?"/>
+		<STRING code="PAUSE_RESTART_CONFIRM" string="Zrestartować poziom?"/>
+		
+		<!-- OPTIONS -->
+		<STRING code="OPTIONS_SOUND" string="Sound"/>
+		<STRING code="OPTIONS_MUSIC" string="Music"/>
+		<STRING code="OPTIONS_QHIGH" string="Graphic Quality - High"/>
+		<STRING code="OPTIONS_QLOW" string="Graphic Quality - Low"/>
+		<STRING code="OPTIONS_LANGUAGE" string="Language"/>
+		
+		<!-- NOTICES -->
+		<STRING code="NOTICE_GET_STARS" string="Znajdź trzy gwiazdki, aby otrzymać relikt!"/>
+		<STRING code="NOTICE_ATTACK_RELIC" string="Otrzymujesz Relikt ataku!"/>
+		<STRING code="NOTICE_IMPULSE_RELIC" string="Otrzymujesz Relikt impulsu!"/>
+		<STRING code="NOTICE_SPEED_RELIC" string="Otrzymujesz Relikt szybkości!"/>
+		<STRING code="NOTICE_EXPLOSIVE_RELIC" string="Otrzymujesz Relikt eksplozji!"/>
+		<STRING code="NOTICE_LIFE_RELIC" string="Otrzymujesz Relikt życia!"/>
+		<STRING code="NOTICE_TAP_START" string="Stuknij w ekran, aby rozpocząć."/>
+		<STRING code="NOTICE_ATTACK_START" string="Naciśnij Atak, aby rozpocząć."/>
+		<STRING code="NOTICE_LOADING" string="Wczytywanie..."/>
+		<STRING code="NOTICE_WAIT" string="Proszę czekać..."/>
+		<STRING code="NOTICE_CONECCTION_ERROR" string="Błąd połączenia! Spróbuj ponownie później."/>
+		
+		<!-- TUTORIAL -->
+		<STRING code="TUTORIAL_MOVE_PC" string="Poruszanie się: strzałka w lewo i w prawo/klawisze A i D/mysz."/>
+		<STRING code="TUTORIAL_MOVE_MOVIL" string="Poruszanie się: przesuń palec wzdłuż ekranu."/>
+		<STRING code="TUTORIAL_ATTACK_PC" string="Atak: strzałka w dół/S/spacja/lewy przycisk myszy."/>
+		<STRING code="TUTORIAL_ATTACK_MOVIL" string="Stuknij we wroga, aby go zaatakować."/>
+		
+		<!-- CREDITS -->
+		<STRING code="CREDITS_CREATED_BY" string="Stworzono i opracowano przez"/>
+		<STRING code="CREDITS_WILDBIT" string="Wildbit Studios"/>
+		<STRING code="CREDITS_LEAD_PROGRAMMER" string="Główny programista"/>
+		<STRING code="CREDITS_LEAD_ARTIST" string="Główny grafik"/>
+		<STRING code="CREDITS_PRODUCER" string="Producent"/>
+		<STRING code="CREDITS_PROJECT_MANAGER" string="Menadżer projektu"/>
+		<STRING code="CREDITS_PROGRAMMING_TEAM" string="Zespół programistów"/>
+		<STRING code="CREDITS_ART_TEAM" string="Zespół grafików"/>
+		<STRING code="CREDITS_GAME_DESIGN" string="Projekt gry"/>
+		<STRING code="CREDITS_SOUND" string="Dźwięk"/>
+		<STRING code="CREDITS_MUSIC" string="Muzyka"/>
+		<STRING code="CREDITS_QA" string="Kontrola jakości"/>
+		<STRING code="CREDITS_THANKS" string="Podziękowania dla"/>
+		
+		<!-- LANGUAJES  -->
+		<STRING code="LANGUAJE_UK_EN" string=""/>
+		<STRING code="LANGUAJE_USA_EN" string=""/>
+		<STRING code="LANGUAJE_NL" string=""/>
+		<STRING code="LANGUAJE_FR" string=""/>
+		<STRING code="LANGUAJE_DE" string=""/>
+		<STRING code="LANGUAJE_ES" string=""/>
+		<STRING code="LANGUAJE_BR" string=""/>
+		<STRING code="LANGUAJE_PT" string=""/>
+		<STRING code="LANGUAJE_IT" string=""/>
+		<STRING code="LANGUAJE_SE" string=""/>
+		<STRING code="LANGUAJE_PL" string=""/>
+		<STRING code="LANGUAJE_RU" string=""/>
+		<STRING code="LANGUAJE_ID" string=""/>
+		<STRING code="LANGUAJE_ARABIC" string=""/>
+		<STRING code="LANGUAJE_JP" string=""/>
+		<STRING code="LANGUAJE_CN" string=""/>
+		<STRING code="LANGUAJE_MX" string=""/>
+		<STRING code="LANGUAJE_AR" string=""/>
+		<STRING code="LANGUAJE_TR" string=""/>
+		<STRING code="LANGUAJE_TW" string=""/>
+		
+	</LOCALIZATION>
+	<LOCALIZATION name="DUTCH" code="NL">
+	
+		<!-- INGAME TIPS -->
+		<STRING code="TIP_IMPULSE" string="Als je een monster doodt, verschijnt er een cijfer dat aangeeft hoeveel impuls je krijgt."/>
+		<STRING code="TIP_IMPULSE2" string="Impuls zorgt voor meer afstand tussen jou en de duistere magie!"/>
+		<STRING code="TIP_ENEMIES_COMING" string="Pas maar op! Er komen hordes vijanden aan!"/>
+		<STRING code="TIP_PERFECT" string="Perfect!"/>
+		<STRING code="TIP_ENEMIES_CAN_ATTACK" string="Sommige vijanden vallen je aan! Kijk daarvoor uit!"/>
+		<STRING code="TIP_WAIT_MOMENT" string="Wacht op het juiste moment om aan te vallen!"/>
+		<STRING code="TIP_ONE_BY_ONE" string="Laat het niet te veel worden! Schakel ze één voor één uit..."/>
+		<STRING code="TIP_MAGIC_COMES" string="Ontsnap aan de duistere magie, en snel!"/>
+		<STRING code="TIP_KILL_BEFORE_ATTACK" string="Maak ze af voordat ze jou pakken!"/>
+		<STRING code="TIP_HOLD" string="Even wachten..."/>
+		<STRING code="TIP_WAIT_SHIELD_LOWERED" string="Wait until his shield is lowered!"/>
+		<STRING code="TIP_ATTACK" string="Val nu meteen aan!"/>
+		<STRING code="TIP_WATCH_AROUND" string="Pas op!"/>
+		<STRING code="TIP_END_CLOSE" string="Bijna klaar!"/>
+		<STRING code="TIP_KEEP_IT" string="Goed zo! Ga zo door!"/>
+		<STRING code="TIP_ATTACK_WHEN_POSSIBLE" string="Blijf maar aanvallen! Maar pas op voor de vaardigheden van vijanden!"/>
+		<STRING code="TIP_HIT_ORB" string="Raak de bol voor hij ontploft!"/>
+		<STRING code="TIP_CHAGING_FORM" string="O nee! Hij verandert!"/>
+		<STRING code="TIP_REMEMBER" string="Denk aan je vorige gevechten!"/>
+		<STRING code="TIP_OUT_OF ENERGY" string="Hij heeft bijna geen energie meer! Hou het nog ietsje langer vol!"/>
+		<STRING code="TIP_ALL_FORMS" string="Zamná wants to use all his shapes!"/>
+
+		<STRING code="TIP_CELESTIAL_FORM" string="O nee! Zamná is herrezen!"/>
+		<STRING code="TIP_SUN_FORM" string="Zamná is niet dood!"/>
+		<STRING code="TIP_MOON_FORM" string="Zamná is terug! Is hij misschien onsterfelijk?"/>
+		<STRING code="TIP_TIME_FORM" string="Zamná vecht weer mee, dus bereid je maar alvast voor!"/>
+		<STRING code="TIP_DEITY_FORM" string="Tijd voor je laatste gevecht. Zamná zal dit keer niet ontsnappen!"/>
+		
+		<STRING code="NEW_TEMPLE_SUN" string="We zijn bij de Zonnetempel aangekomen!"/>
+		<STRING code="NEW_TEMPLE_MOON" string="Dit is de Maantempel. Pas op! Er loert hier veel gevaar!"/>
+		<STRING code="NEW_TEMPLE_TIME" string="We zijn in de Tempel des tijds! Bijna..."/>
+		<STRING code="NEW_TEMPLE_ZAMNA" string="Eindelijk! We hebben de Tempel van Zamná bereikt!"/>
+		
+		<!-- ITEMS TIPS -->
+		
+		<STRING code="OBJ_DYNAMITE" string="Gebruik dynamiet tegen deze vijanden!"/>
+		<STRING code="OBJ_CHICKEN" string="De Vliegende kip is een krachtig wapen. Hiermee zullen we nooit verliezen."/>
+		<STRING code="OBJ_BURGER" string="Wat zat er in die hamburger? Ik voel me ineens veel sterker... onoverwinnelijk, zelfs!"/>
+		
+		<!-- REWARDS BOSS -->
+		
+		<STRING code="REWARD_BOSS_HEART" string="We hebben een extra hart gekregen omdat we Zamná verslagen hebben!"/>
+		<STRING code="REWARD_BOSS_SPEED" string="Ik ben sneller geworden toen ik Zamná verslagen had!"/>
+		<STRING code="REWARD_BOSS_IMPULSE" string="Nu krijgen we meer impuls!"/>
+		<STRING code="REWARD_BOSS_EXPLOSIVES" string="Ik heb nu meer kennis over explosieven!"/>
+		<STRING code="REWARD_BOSS_ATTACK" string="Ik ben sterker geworden toen ik Zamná verslagen had!"/>
+		<STRING code="REWARD_COMPLETE_GAME" string="Je hebt elk level van De zombiejager voltooid en Zamná verslagen. Probeer nu in elk level 3 sterren te verdienen!"/>
+		<STRING code="REWARD_ALL_STARS" string="Je hebt in elk level 3 sterren verdiend! Je bent een levende legende. Niet slecht, hè?"/>
+		
+		<!-- BUTTONS -->
+		<STRING code="BUTTON_PLAY" string="Spelen"/>
+		<STRING code="BUTTON_NEXT" string="Volgende"/>
+		<STRING code="BUTTON_FRANK" string="Frank"/>
+		<STRING code="BUTTON_SKIP" string="Skip"/>
+		<STRING code="BUTTON_CREDITS" string="Credits"/>
+		<STRING code="BUTTON_OPTIONS" string="Options"/>
+		<STRING code="BUTTON_MORE_GAMES" string="Meer spellen"/>
+		
+		<!-- DESCRIPTIONS -->
+		<STRING code="GAME_NAME" string="De zombiejager"/>
+		<STRING code="BOSS_NAME" string="Zamná"/>
+		<STRING code="ATTRIBUTE_ATTACK" string="Attack"/>
+		<STRING code="ATTRIBUTE_IMPULSE" string="Impulse"/>
+		<STRING code="ATTRIBUTE_EXPLOSIVES" string="Explosives"/>
+		<STRING code="ATTRIBUTE_HEART" string="Heart"/>
+		<STRING code="ATTRIBUTE_SPEED" string="Speed"/>
+		<STRING code="DESCRIPTION_IMPULSE" string="Affects the amount of extra impulse Frank gets after killing an enemy"/>
+		<STRING code="DESCRIPTION_DAMAGE" string="Affects the amount of damage Frank inflicts and combat speed"/>
+		<STRING code="DESCRIPTION_HEART" string="Frank can withstand one hit for every heart he's got"/>
+		<STRING code="DESCRIPTION_EXPLOSIVES" string="Affects Frank's ability with explosives: Dynamite makes more damage, the starting burst is greater and when Frank reappears after falling, he loses less distance."/>
+		<STRING code="DESCRIPTION_SPEED" string="Frank's movement speed on air"/>
+		<STRING code="TEMPLE_1" string="Hemeltempel"/>
+		<STRING code="TEMPLE_2" string="Zonnetempel"/>
+		<STRING code="TEMPLE_3" string="Maantempel"/>
+		<STRING code="TEMPLE_4" string="Tempel des tijds"/>
+		<STRING code="TEMPLE_5" string="Tempel van Zamná"/>
+		
+		<!-- RESULTS MENU -->
+		<STRING code="RESULT_TIME" string="Tijd"/>
+		<STRING code="RESULT_ENEMIES" string="Vijanden gedood"/>
+		<STRING code="RESULT_HITS" string="Aantal keer geraakt"/>
+		<STRING code="RESULT_DISTANCE" string="Afst. tot duistere magie"/>
+		<STRING code="LEVEL_COMPLETED" string="Level voltooid"/>
+		<STRING code="LEVEL_UNCOMPLETED" string="Game over"/>
+		<STRING code="LEVEL_COMPLETED_1" string="Gefeliciteerd!"/>
+		<STRING code="LEVEL_COMPLETED_2" string="Je bent top!"/>
+		<STRING code="LEVEL_COMPLETED_3" string="Ongelooflijk!"/>
+		<STRING code="LEVEL_COMPLETED_4" string="Super!"/>
+		<STRING code="LEVEL_COMPLETED_5" string="Netjes!"/>
+		<STRING code="LEVEL_COMPLETED_6" string="Op het nippertje!"/>
+		<STRING code="LEVEL_COMPLETED_7" string="Goed gedaan!"/>
+		<STRING code="LEVEL_COMPLETED_8" string="Goed zo!"/>
+		<STRING code="LEVEL_UNCOMPLETED_1" string="Je hebt verloren..."/>
+		<STRING code="LEVEL_UNCOMPLETED_2" string="Wat een zooitje!"/>
+		<STRING code="LEVEL_UNCOMPLETED_3" string="Wauw!"/>
+		<STRING code="LEVEL_UNCOMPLETED_4" string="Au!"/>
+		
+		<!-- PAUSE MENU -->
+		<STRING code="PAUSE_EXIT_CONFIRM" string="Terug naar menu?"/>
+		<STRING code="PAUSE_RESTART_CONFIRM" string="Level opnieuw starten"/>
+		
+		<!-- OPTIONS -->
+		<STRING code="OPTIONS_SOUND" string="Sound"/>
+		<STRING code="OPTIONS_MUSIC" string="Music"/>
+		<STRING code="OPTIONS_QHIGH" string="Graphic Quality - High"/>
+		<STRING code="OPTIONS_QLOW" string="Graphic Quality - Low"/>
+		<STRING code="OPTIONS_LANGUAGE" string="Language"/>
+		
+		<!-- NOTICES -->
+		<STRING code="NOTICE_GET_STARS" string="Vind drie sterren en verdien een reliek!"/>
+		<STRING code="NOTICE_ATTACK_RELIC" string="Je hebt een Aanvalsreliek verdiend!"/>
+		<STRING code="NOTICE_IMPULSE_RELIC" string="Je hebt een Impulsreliek verdiend!"/>
+		<STRING code="NOTICE_SPEED_RELIC" string="Je hebt een Snelheidsreliek verdiend!"/>
+		<STRING code="NOTICE_EXPLOSIVE_RELIC" string="Je hebt een Explosievenreliek verdiend!"/>
+		<STRING code="NOTICE_LIFE_RELIC" string="Je hebt een Levensreliek verdiend!"/>
+		<STRING code="NOTICE_TAP_START" string="Tik op het scherm om te beginnen."/>
+		<STRING code="NOTICE_ATTACK_START" string="Druk op Aanvallen om te beginnen."/>
+		<STRING code="NOTICE_LOADING" string="Laden..."/>
+		<STRING code="NOTICE_WAIT" string="Even geduld..."/>
+		<STRING code="NOTICE_CONECCTION_ERROR" string="Verbindingsfout! Probeer het later nog eens."/>
+		
+		<!-- TUTORIAL -->
+		<STRING code="TUTORIAL_MOVE_PC" string="Bewegen: pijltjes naar links en rechts/A en D/muis."/>
+		<STRING code="TUTORIAL_MOVE_MOVIL" string="Bewegen: veeg je vinger over het scherm."/>
+		<STRING code="TUTORIAL_ATTACK_PC" string="Aanvallen: pijltje omlaag/S/spatiebalk/linkermuisknop."/>
+		<STRING code="TUTORIAL_ATTACK_MOVIL" string="Tik op een vijand om die aan te vallen."/>
+		
+		<!-- CREDITS -->
+		<STRING code="CREDITS_CREATED_BY" string="Gemaakt en ontwikkeld door"/>
+		<STRING code="CREDITS_WILDBIT" string="Wildbit Studios"/>
+		<STRING code="CREDITS_LEAD_PROGRAMMER" string="Hoofdprogrammeur"/>
+		<STRING code="CREDITS_LEAD_ARTIST" string="Hoofdartiest"/>
+		<STRING code="CREDITS_PRODUCER" string="Producent"/>
+		<STRING code="CREDITS_PROJECT_MANAGER" string="Projectmanager"/>
+		<STRING code="CREDITS_PROGRAMMING_TEAM" string="Programmeerteam"/>
+		<STRING code="CREDITS_ART_TEAM" string="Artworkteam"/>
+		<STRING code="CREDITS_GAME_DESIGN" string="Spelontwerp"/>
+		<STRING code="CREDITS_SOUND" string="Geluid"/>
+		<STRING code="CREDITS_MUSIC" string="Muziek"/>
+		<STRING code="CREDITS_QA" string="Vraag &amp; antwoord"/>
+		<STRING code="CREDITS_THANKS" string="Met dank aan:"/>
+		
+		<!-- LANGUAJES  -->
+		<STRING code="LANGUAJE_UK_EN" string=""/>
+		<STRING code="LANGUAJE_USA_EN" string=""/>
+		<STRING code="LANGUAJE_NL" string=""/>
+		<STRING code="LANGUAJE_FR" string=""/>
+		<STRING code="LANGUAJE_DE" string=""/>
+		<STRING code="LANGUAJE_ES" string=""/>
+		<STRING code="LANGUAJE_BR" string=""/>
+		<STRING code="LANGUAJE_PT" string=""/>
+		<STRING code="LANGUAJE_IT" string=""/>
+		<STRING code="LANGUAJE_SE" string=""/>
+		<STRING code="LANGUAJE_PL" string=""/>
+		<STRING code="LANGUAJE_RU" string=""/>
+		<STRING code="LANGUAJE_ID" string=""/>
+		<STRING code="LANGUAJE_ARABIC" string=""/>
+		<STRING code="LANGUAJE_JP" string=""/>
+		<STRING code="LANGUAJE_CN" string=""/>
+		<STRING code="LANGUAJE_MX" string=""/>
+		<STRING code="LANGUAJE_AR" string=""/>
+		<STRING code="LANGUAJE_TR" string=""/>
+		<STRING code="LANGUAJE_TW" string=""/>
+		
+	</LOCALIZATION>
+	<LOCALIZATION name="ITALIAN" code="IT">
+	
+		<!-- INGAME TIPS -->
+		<STRING code="TIP_IMPULSE" string="Quando uccidi un mostro, un numero indica la spinta che otterrai."/>
+		<STRING code="TIP_IMPULSE2" string="La spinta aumenta la distanza tra te e la magia nera che ti sta alle calcagna!"/>
+		<STRING code="TIP_ENEMIES_COMING" string="Occhio! C'è un'orda di nemici in arrivo!"/>
+		<STRING code="TIP_PERFECT" string="Perfetto!"/>
+		<STRING code="TIP_ENEMIES_CAN_ATTACK" string="I nemici possono attaccarti! Fai attenzione!"/>
+		<STRING code="TIP_WAIT_MOMENT" string="Aspetta il momento giusto per attaccare!"/>
+		<STRING code="TIP_ONE_BY_ONE" string="Non lasciarti sopraffare! Eliminali uno alla volta..."/>
+		<STRING code="TIP_MAGIC_COMES" string="Fuggi dalle grinfie della magia nera, presto!"/>
+		<STRING code="TIP_KILL_BEFORE_ATTACK" string="Uccidili prima che uccidano te!"/>
+		<STRING code="TIP_HOLD" string="Attendi..."/>
+		<STRING code="TIP_WAIT_SHIELD_LOWERED" string="Wait until his shield is lowered!"/>
+		<STRING code="TIP_ATTACK" string="Attacca subito!"/>
+		<STRING code="TIP_WATCH_AROUND" string="Attenzione!"/>
+		<STRING code="TIP_END_CLOSE" string="Ci siamo quasi!"/>
+		<STRING code="TIP_KEEP_IT" string="Bene! Continua così!"/>
+		<STRING code="TIP_ATTACK_WHEN_POSSIBLE" string="Attacca appena puoi! Ma fa attenzione alle abilità dei nemici!"/>
+		<STRING code="TIP_HIT_ORB" string="Colpisci la sfera prima che esploda!"/>
+		<STRING code="TIP_CHAGING_FORM" string="Oh no! Sta cambiando forma!"/>
+		<STRING code="TIP_REMEMBER" string="Ricorda le battaglie passate!"/>
+		<STRING code="TIP_OUT_OF ENERGY" string="Sta per esaurire l'energia! Resisti ancora per un po'!"/>
+		<STRING code="TIP_ALL_FORMS" string="Zamná wants to use all his shapes!"/>
+
+		<STRING code="TIP_CELESTIAL_FORM" string="Oh no! Zamná è risorto!"/>
+		<STRING code="TIP_SUN_FORM" string="Zamná non è morto!"/>
+		<STRING code="TIP_MOON_FORM" string="Zamná è tornato! Forse è immortale?"/>
+		<STRING code="TIP_TIME_FORM" string="Zamná è tornato a combattere: preparati!"/>
+		<STRING code="TIP_DEITY_FORM" string="È arrivato il momento dell'ultima battaglia. Zamná non la passerà liscia questa volta!"/>
+		
+		<STRING code="NEW_TEMPLE_SUN" string="Abbiamo raggiunto il Tempio del sole!"/>
+		<STRING code="NEW_TEMPLE_MOON" string="È il Tempio della luna. Attenzione! La strada è fitta di pericoli!"/>
+		<STRING code="NEW_TEMPLE_TIME" string="Siamo dentro il Tempio del tempo! Ci siamo quasi..."/>
+		<STRING code="NEW_TEMPLE_ZAMNA" string="Finalmente! Finalmente abbiamo raggiunto il Tempio di Zamná!"/>
+		
+		<!-- ITEMS TIPS -->
+		
+		<STRING code="OBJ_DYNAMITE" string="Usa la dinamite contro questi nemici!"/>
+		<STRING code="OBJ_CHICKEN" string="Il pollo volante è un'arma davvero potente. Non possiamo fallire con quest'arma al nostro fianco!"/>
+		<STRING code="OBJ_BURGER" string="Cosa c'era dentro quell'hamburger? Mi sento molto più forte ora... forse persino invincibile!"/>
+		
+		<!-- REWARDS BOSS -->
+		
+		<STRING code="REWARD_BOSS_HEART" string="Abbiamo ottenuto un cuore extra per aver sconfitto Zamná!"/>
+		<STRING code="REWARD_BOSS_SPEED" string="Dopo aver sconfitto Zamná, la mia velocità è aumentata!"/>
+		<STRING code="REWARD_BOSS_IMPULSE" string="Ora otterremo più spinta!"/>
+		<STRING code="REWARD_BOSS_EXPLOSIVES" string="La mia conoscenza degli esplosivi è migliorata!"/>
+		<STRING code="REWARD_BOSS_ATTACK" string="Dopo aver sconfitto Zamná, sono molto più forte!"/>
+		<STRING code="REWARD_COMPLETE_GAME" string="Hai sconfitto Zamná completando tutti i livelli di Tomba degli zombi. Ora prova a ottenere 3 stelle in ogni livello!"/>
+		<STRING code="REWARD_ALL_STARS" string="Hai totalizzato 3 stelle in ogni livello! Sei un mito. Niente male, eh?"/>
+		
+		<!-- BUTTONS -->
+		<STRING code="BUTTON_PLAY" string="Gioca"/>
+		<STRING code="BUTTON_NEXT" string="Avanti"/>
+		<STRING code="BUTTON_FRANK" string="Frank"/>
+		<STRING code="BUTTON_SKIP" string="Skip"/>
+		<STRING code="BUTTON_CREDITS" string="Riconoscimenti"/>
+		<STRING code="BUTTON_OPTIONS" string="Options"/>
+		<STRING code="BUTTON_MORE_GAMES" string="Altri giochi"/>
+		
+		<!-- DESCRIPTIONS -->
+		<STRING code="GAME_NAME" string="Tomba degli zombi"/>
+		<STRING code="BOSS_NAME" string="Zamná"/>
+		<STRING code="ATTRIBUTE_ATTACK" string="Attack"/>
+		<STRING code="ATTRIBUTE_IMPULSE" string="Impulse"/>
+		<STRING code="ATTRIBUTE_EXPLOSIVES" string="Explosives"/>
+		<STRING code="ATTRIBUTE_HEART" string="Heart"/>
+		<STRING code="ATTRIBUTE_SPEED" string="Speed"/>
+		<STRING code="DESCRIPTION_IMPULSE" string="Affects the amount of extra impulse Frank gets after killing an enemy"/>
+		<STRING code="DESCRIPTION_DAMAGE" string="Affects the amount of damage Frank inflicts and combat speed"/>
+		<STRING code="DESCRIPTION_HEART" string="Frank can withstand one hit for every heart he's got"/>
+		<STRING code="DESCRIPTION_EXPLOSIVES" string="Affects Frank's ability with explosives: Dynamite makes more damage, the starting burst is greater and when Frank reappears after falling, he loses less distance."/>
+		<STRING code="DESCRIPTION_SPEED" string="Frank's movement speed on air"/>
+		<STRING code="TEMPLE_1" string="Tempio del cielo"/>
+		<STRING code="TEMPLE_2" string="Tempio del sole"/>
+		<STRING code="TEMPLE_3" string="Tempio della luna"/>
+		<STRING code="TEMPLE_4" string="Tempio del tempo"/>
+		<STRING code="TEMPLE_5" string="Tempio di Zamná"/>
+		
+		<!-- RESULTS MENU -->
+		<STRING code="RESULT_TIME" string="Tempo"/>
+		<STRING code="RESULT_ENEMIES" string="Nemici uccisi"/>
+		<STRING code="RESULT_HITS" string="Punti ferita riportati"/>
+		<STRING code="RESULT_DISTANCE" string="Distanza dalla magia nera"/>
+		<STRING code="LEVEL_COMPLETED" string="Livello completato"/>
+		<STRING code="LEVEL_UNCOMPLETED" string="Fine partita"/>
+		<STRING code="LEVEL_COMPLETED_1" string="Complimenti!"/>
+		<STRING code="LEVEL_COMPLETED_2" string="Sei il numero uno!"/>
+		<STRING code="LEVEL_COMPLETED_3" string="Incredibile!"/>
+		<STRING code="LEVEL_COMPLETED_4" string="Favoloso!"/>
+		<STRING code="LEVEL_COMPLETED_5" string="Bene!"/>
+		<STRING code="LEVEL_COMPLETED_6" string="C'è mancato poco!"/>
+		<STRING code="LEVEL_COMPLETED_7" string="Vai così!"/>
+		<STRING code="LEVEL_COMPLETED_8" string="Ottimo lavoro!"/>
+		<STRING code="LEVEL_UNCOMPLETED_1" string="Hai perso..."/>
+		<STRING code="LEVEL_UNCOMPLETED_2" string="Che pasticcio!"/>
+		<STRING code="LEVEL_UNCOMPLETED_3" string="Accidenti!"/>
+		<STRING code="LEVEL_UNCOMPLETED_4" string="Ahia!"/>
+		
+		<!-- PAUSE MENU -->
+		<STRING code="PAUSE_EXIT_CONFIRM" string="Uscire al Menu?"/>
+		<STRING code="PAUSE_RESTART_CONFIRM" string="Riavviare il livello?"/>
+		
+		<!-- OPTIONS -->
+		<STRING code="OPTIONS_SOUND" string="Sound"/>
+		<STRING code="OPTIONS_MUSIC" string="Music"/>
+		<STRING code="OPTIONS_QHIGH" string="Graphic Quality - High"/>
+		<STRING code="OPTIONS_QLOW" string="Graphic Quality - Low"/>
+		<STRING code="OPTIONS_LANGUAGE" string="Language"/>
+		
+		<!-- NOTICES -->
+		<STRING code="NOTICE_GET_STARS" string="Trova tre stelle per ottenere una reliquia!"/>
+		<STRING code="NOTICE_ATTACK_RELIC" string="Hai ottenuto una reliquia d'attacco!"/>
+		<STRING code="NOTICE_IMPULSE_RELIC" string="Hai ottenuto una reliquia di spinta!"/>
+		<STRING code="NOTICE_SPEED_RELIC" string="Hai ottenuto una reliquia di velocità!"/>
+		<STRING code="NOTICE_EXPLOSIVE_RELIC" string="Hai ottenuto una reliquia esplosiva!"/>
+		<STRING code="NOTICE_LIFE_RELIC" string="Hai ottenuto una reliquia vitale!"/>
+		<STRING code="NOTICE_TAP_START" string="Tocca lo schermo per iniziare."/>
+		<STRING code="NOTICE_ATTACK_START" string="Premi Attacco per iniziare."/>
+		<STRING code="NOTICE_LOADING" string="Caricamento..."/>
+		<STRING code="NOTICE_WAIT" string="Attendi..."/>
+		<STRING code="NOTICE_CONECCTION_ERROR" string="Errore di connessione! Riprova più tardi."/>
+		
+		<!-- TUTORIAL -->
+		<STRING code="TUTORIAL_MOVE_PC" string="Muovi: frecce sinistra e destra / tasti A e D / mouse."/>
+		<STRING code="TUTORIAL_MOVE_MOVIL" string="Muovi: scorri il dito sullo schermo."/>
+		<STRING code="TUTORIAL_ATTACK_PC" string="Attacca: freccia giù / S / barra spaziatrice / clic sinistro."/>
+		<STRING code="TUTORIAL_ATTACK_MOVIL" string="Tocca un nemico per attaccarlo."/>
+		
+		<!-- CREDITS -->
+		<STRING code="CREDITS_CREATED_BY" string="Creato e sviluppato da"/>
+		<STRING code="CREDITS_WILDBIT" string="Wildbit Studios"/>
+		<STRING code="CREDITS_LEAD_PROGRAMMER" string="Programmatore principale"/>
+		<STRING code="CREDITS_LEAD_ARTIST" string="Artista principale"/>
+		<STRING code="CREDITS_PRODUCER" string="Produttore"/>
+		<STRING code="CREDITS_PROJECT_MANAGER" string="Responsabile progetto"/>
+		<STRING code="CREDITS_PROGRAMMING_TEAM" string="Team di programmazione"/>
+		<STRING code="CREDITS_ART_TEAM" string="Team grafico"/>
+		<STRING code="CREDITS_GAME_DESIGN" string="Progettazione del gioco"/>
+		<STRING code="CREDITS_SOUND" string="Audio"/>
+		<STRING code="CREDITS_MUSIC" string="Musica"/>
+		<STRING code="CREDITS_QA" string="Domande e risposte"/>
+		<STRING code="CREDITS_THANKS" string="Grazie a"/>
+		
+		<!-- LANGUAJES  -->
+		<STRING code="LANGUAJE_UK_EN" string=""/>
+		<STRING code="LANGUAJE_USA_EN" string=""/>
+		<STRING code="LANGUAJE_NL" string=""/>
+		<STRING code="LANGUAJE_FR" string=""/>
+		<STRING code="LANGUAJE_DE" string=""/>
+		<STRING code="LANGUAJE_ES" string=""/>
+		<STRING code="LANGUAJE_BR" string=""/>
+		<STRING code="LANGUAJE_PT" string=""/>
+		<STRING code="LANGUAJE_IT" string=""/>
+		<STRING code="LANGUAJE_SE" string=""/>
+		<STRING code="LANGUAJE_PL" string=""/>
+		<STRING code="LANGUAJE_RU" string=""/>
+		<STRING code="LANGUAJE_ID" string=""/>
+		<STRING code="LANGUAJE_ARABIC" string=""/>
+		<STRING code="LANGUAJE_JP" string=""/>
+		<STRING code="LANGUAJE_CN" string=""/>
+		<STRING code="LANGUAJE_MX" string=""/>
+		<STRING code="LANGUAJE_AR" string=""/>
+		<STRING code="LANGUAJE_TR" string=""/>
+		<STRING code="LANGUAJE_TW" string=""/>
+		
+	</LOCALIZATION>
+	<LOCALIZATION name="INDONESIAN" code="ID">
+	
+		<!-- INGAME TIPS -->
+		<STRING code="TIP_IMPULSE" string="Saat kamu membunuh monster, ada angka yang menandakan impuls yang akan kamu raih."/>
+		<STRING code="TIP_IMPULSE2" string="Impuls menambah jarak antara kamu dan Sihir Gelap yang mengejarmu!"/>
+		<STRING code="TIP_ENEMIES_COMING" string="Awas! Banyak musuh datang!"/>
+		<STRING code="TIP_PERFECT" string="Sempurna!"/>
+		<STRING code="TIP_ENEMIES_CAN_ATTACK" string="Ada musuh yang bisa menyerang! Waspadai mereka!"/>
+		<STRING code="TIP_WAIT_MOMENT" string="Tunggu momen sempurna untuk menyerang!"/>
+		<STRING code="TIP_ONE_BY_ONE" string="Jangan panik! Singkirkan mereka satu per satu..."/>
+		<STRING code="TIP_MAGIC_COMES" string="Hindari cengkaman Sihir Hitam—segera!"/>
+		<STRING code="TIP_KILL_BEFORE_ATTACK" string="Bunuh mereka sebelum mereka membunuhmu!"/>
+		<STRING code="TIP_HOLD" string="Tunggu..."/>
+		<STRING code="TIP_WAIT_SHIELD_LOWERED" string="Wait until his shield is lowered!"/>
+		<STRING code="TIP_ATTACK" string="Serang sekarang!"/>
+		<STRING code="TIP_WATCH_AROUND" string="Awas!"/>
+		<STRING code="TIP_END_CLOSE" string="Hampir sampai!"/>
+		<STRING code="TIP_KEEP_IT" string="Bagus! Pertahankan!"/>
+		<STRING code="TIP_ATTACK_WHEN_POSSIBLE" string="Serang kapan pun kamu bisa! Tapi hati-hati dengan kemampuan musuh!"/>
+		<STRING code="TIP_HIT_ORB" string="Hantam bola cahaya sebelum meledak!"/>
+		<STRING code="TIP_CHAGING_FORM" string="Waduh! Dia berubah bentuk!"/>
+		<STRING code="TIP_REMEMBER" string="Ingat pertarungan sebelumnya!"/>
+		<STRING code="TIP_OUT_OF ENERGY" string="Dia kehabisan tenaga! Bertahanlah beberapa saat lagi!"/>
+		<STRING code="TIP_ALL_FORMS" string="Zamná wants to use all his shapes!"/>
+
+		<STRING code="TIP_CELESTIAL_FORM" string="Oh tidak! Zamná hidup lagi!"/>
+		<STRING code="TIP_SUN_FORM" string="Zamná belum mati!"/>
+		<STRING code="TIP_MOON_FORM" string="Zamná telah kembali! Mungkin dia abadi?"/>
+		<STRING code="TIP_TIME_FORM" string="Zamná kembali bertarung; jadi, kamu sebaiknya bersiap!"/>
+		<STRING code="TIP_DEITY_FORM" string="Saatnya pertempuran terakhir. Zamná tidak akan lolos kali ini!"/>
+		
+		<STRING code="NEW_TEMPLE_SUN" string="Kita telah sampai di Kuil Matahari!"/>
+		<STRING code="NEW_TEMPLE_MOON" string="Ini Kuil Bulan Hati-hati! Banyak bahaya menunggumu!"/>
+		<STRING code="NEW_TEMPLE_TIME" string="Kita ada di dalam Kuil Waktu! Hampir sampai..."/>
+		<STRING code="NEW_TEMPLE_ZAMNA" string="Akhirnya! Kita akhirnya tiba di Kuil Zamná!"/>
+		
+		<!-- ITEMS TIPS -->
+		
+		<STRING code="OBJ_DYNAMITE" string="Gunakan dinamit melawan musuh-musuh ini!"/>
+		<STRING code="OBJ_CHICKEN" string="Ayam Terbang memang senjata yang kuat. Kita tidak akan gagal dengan bantuannya!"/>
+		<STRING code="OBJ_BURGER" string="Ada apa di dalam burger itu? Aku sekarang lebih kuat...bahkan mungkin kebal!"/>
+		
+		<!-- REWARDS BOSS -->
+		
+		<STRING code="REWARD_BOSS_HEART" string="Kita mendapatkan hati tambahan karena mengalahkan Zamná!"/>
+		<STRING code="REWARD_BOSS_SPEED" string="Setelah mengalahkan Zamná, kecepatanku bertambah!"/>
+		<STRING code="REWARD_BOSS_IMPULSE" string="Sekarang kita akan meraih impuls lebih banyak!"/>
+		<STRING code="REWARD_BOSS_EXPLOSIVES" string="Pengetahuanku tentang bahan ledak meningkat!"/>
+		<STRING code="REWARD_BOSS_ATTACK" string="Setelah mengalahkan Zamná, aku jauh lebih kuat!"/>
+		<STRING code="REWARD_COMPLETE_GAME" string="Zamná ditaklukkan dengan menyelesaikan setiap level Kuburan Zombi. Sekarang coba menangi 3 bintang di tiap level!"/>
+		<STRING code="REWARD_ALL_STARS" string="Kamu meraih 3 bintang di tiap level! Kamu adalah legenda hidup. Lumayan keren, kan?"/>
+		
+		<!-- BUTTONS -->
+		<STRING code="BUTTON_PLAY" string="Main"/>
+		<STRING code="BUTTON_NEXT" string="Lanjut"/>
+		<STRING code="BUTTON_FRANK" string="Frank"/>
+		<STRING code="BUTTON_SKIP" string="Skip"/>
+		<STRING code="BUTTON_CREDITS" string="Kredit"/>
+		<STRING code="BUTTON_OPTIONS" string="Options"/>
+		<STRING code="BUTTON_MORE_GAMES" string="Game Lain"/>
+		
+		<!-- DESCRIPTIONS -->
+		<STRING code="GAME_NAME" string="Kuburan Zombi"/>
+		<STRING code="BOSS_NAME" string="Zamná"/>
+		<STRING code="ATTRIBUTE_ATTACK" string="Attack"/>
+		<STRING code="ATTRIBUTE_IMPULSE" string="Impulse"/>
+		<STRING code="ATTRIBUTE_EXPLOSIVES" string="Explosives"/>
+		<STRING code="ATTRIBUTE_HEART" string="Heart"/>
+		<STRING code="ATTRIBUTE_SPEED" string="Speed"/>
+		<STRING code="DESCRIPTION_IMPULSE" string="Affects the amount of extra impulse Frank gets after killing an enemy"/>
+		<STRING code="DESCRIPTION_DAMAGE" string="Affects the amount of damage Frank inflicts and combat speed"/>
+		<STRING code="DESCRIPTION_HEART" string="Frank can withstand one hit for every heart he's got"/>
+		<STRING code="DESCRIPTION_EXPLOSIVES" string="Affects Frank's ability with explosives: Dynamite makes more damage, the starting burst is greater and when Frank reappears after falling, he loses less distance."/>
+		<STRING code="DESCRIPTION_SPEED" string="Frank's movement speed on air"/>
+		<STRING code="TEMPLE_1" string="Kuil Langit"/>
+		<STRING code="TEMPLE_2" string="Kuil Matahari"/>
+		<STRING code="TEMPLE_3" string="Kuil Bulan"/>
+		<STRING code="TEMPLE_4" string="Kuil Waktu"/>
+		<STRING code="TEMPLE_5" string="Kuil Zamná"/>
+		
+		<!-- RESULTS MENU -->
+		<STRING code="RESULT_TIME" string="Waktu"/>
+		<STRING code="RESULT_ENEMIES" string="Musuh Dibunuh"/>
+		<STRING code="RESULT_HITS" string="Serangan Diterima"/>
+		<STRING code="RESULT_DISTANCE" string="Jarak ke Sihir Hitam"/>
+		<STRING code="LEVEL_COMPLETED" string="Level Selesai"/>
+		<STRING code="LEVEL_UNCOMPLETED" string="Game Berakhir"/>
+		<STRING code="LEVEL_COMPLETED_1" string="Selamat!"/>
+		<STRING code="LEVEL_COMPLETED_2" string="Kamu yang terbaik!"/>
+		<STRING code="LEVEL_COMPLETED_3" string="Luar biasa!"/>
+		<STRING code="LEVEL_COMPLETED_4" string="Fantastis!"/>
+		<STRING code="LEVEL_COMPLETED_5" string="Bagus!"/>
+		<STRING code="LEVEL_COMPLETED_6" string="Nyaris!"/>
+		<STRING code="LEVEL_COMPLETED_7" string="Mantap!"/>
+		<STRING code="LEVEL_COMPLETED_8" string="Kerja bagus!"/>
+		<STRING code="LEVEL_UNCOMPLETED_1" string="Kamu kalah..."/>
+		<STRING code="LEVEL_UNCOMPLETED_2" string="Berantakan sekali!"/>
+		<STRING code="LEVEL_UNCOMPLETED_3" string="Ya ampun!"/>
+		<STRING code="LEVEL_UNCOMPLETED_4" string="Aw!"/>
+		
+		<!-- PAUSE MENU -->
+		<STRING code="PAUSE_EXIT_CONFIRM" string="Keluar ke Menu?"/>
+		<STRING code="PAUSE_RESTART_CONFIRM" string="Ulangi Level?"/>
+		
+		<!-- OPTIONS -->
+		<STRING code="OPTIONS_SOUND" string="Sound"/>
+		<STRING code="OPTIONS_MUSIC" string="Music"/>
+		<STRING code="OPTIONS_QHIGH" string="Graphic Quality - High"/>
+		<STRING code="OPTIONS_QLOW" string="Graphic Quality - Low"/>
+		<STRING code="OPTIONS_LANGUAGE" string="Language"/>
+		
+		<!-- NOTICES -->
+		<STRING code="NOTICE_GET_STARS" string="Temukan tiga bintang untuk mendapatkan Pusaka!"/>
+		<STRING code="NOTICE_ATTACK_RELIC" string="Kamu mendapatkan Pusaka Serangan!"/>
+		<STRING code="NOTICE_IMPULSE_RELIC" string="Kamu mendapatkan Pusaka Impuls!"/>
+		<STRING code="NOTICE_SPEED_RELIC" string="Kamu mendapatkan Pusaka Kecepatan!"/>
+		<STRING code="NOTICE_EXPLOSIVE_RELIC" string="Kamu mendapatkan Pusaka Ledak!"/>
+		<STRING code="NOTICE_LIFE_RELIC" string="Kamu mendapatkan Pusaka Kehidupan!"/>
+		<STRING code="NOTICE_TAP_START" string="Ketuk layar untuk memulai."/>
+		<STRING code="NOTICE_ATTACK_START" string="Tekan Serang untuk memulai."/>
+		<STRING code="NOTICE_LOADING" string="Memuatkan…"/>
+		<STRING code="NOTICE_WAIT" string="Tunggu ya..."/>
+		<STRING code="NOTICE_CONECCTION_ERROR" string="Sambungan eror! Coba lagi nanti."/>
+		
+		<!-- TUTORIAL -->
+		<STRING code="TUTORIAL_MOVE_PC" string="Bergerak: Panah Kiri dan Kanan / tombol A dan D / Mouse."/>
+		<STRING code="TUTORIAL_MOVE_MOVIL" string="Bergerak: geser jarimu pada layar."/>
+		<STRING code="TUTORIAL_ATTACK_PC" string="Menyerang: Panah bawah / S / bilah spasi / klik kiri."/>
+		<STRING code="TUTORIAL_ATTACK_MOVIL" string="Ketuk musuh untuk menyerangnya."/>
+		
+		<!-- CREDITS -->
+		<STRING code="CREDITS_CREATED_BY" string="Dibuat dan Dikembangkan Oleh"/>
+		<STRING code="CREDITS_WILDBIT" string="Wildbit Studios"/>
+		<STRING code="CREDITS_LEAD_PROGRAMMER" string="Pemrogram Utama"/>
+		<STRING code="CREDITS_LEAD_ARTIST" string="Seniman Utama"/>
+		<STRING code="CREDITS_PRODUCER" string="Produser"/>
+		<STRING code="CREDITS_PROJECT_MANAGER" string="Manajer Proyek"/>
+		<STRING code="CREDITS_PROGRAMMING_TEAM" string="Tim Pemrograman"/>
+		<STRING code="CREDITS_ART_TEAM" string="Tim Seni"/>
+		<STRING code="CREDITS_GAME_DESIGN" string="Desain Game"/>
+		<STRING code="CREDITS_SOUND" string="Suara"/>
+		<STRING code="CREDITS_MUSIC" string="Musik"/>
+		<STRING code="CREDITS_QA" string="Tanya Jawab"/>
+		<STRING code="CREDITS_THANKS" string="Berkat"/>
+		
+		<!-- LANGUAJES  -->
+		<STRING code="LANGUAJE_UK_EN" string=""/>
+		<STRING code="LANGUAJE_USA_EN" string=""/>
+		<STRING code="LANGUAJE_NL" string=""/>
+		<STRING code="LANGUAJE_FR" string=""/>
+		<STRING code="LANGUAJE_DE" string=""/>
+		<STRING code="LANGUAJE_ES" string=""/>
+		<STRING code="LANGUAJE_BR" string=""/>
+		<STRING code="LANGUAJE_PT" string=""/>
+		<STRING code="LANGUAJE_IT" string=""/>
+		<STRING code="LANGUAJE_SE" string=""/>
+		<STRING code="LANGUAJE_PL" string=""/>
+		<STRING code="LANGUAJE_RU" string=""/>
+		<STRING code="LANGUAJE_ID" string=""/>
+		<STRING code="LANGUAJE_ARABIC" string=""/>
+		<STRING code="LANGUAJE_JP" string=""/>
+		<STRING code="LANGUAJE_CN" string=""/>
+		<STRING code="LANGUAJE_MX" string=""/>
+		<STRING code="LANGUAJE_AR" string=""/>
+		<STRING code="LANGUAJE_TR" string=""/>
+		<STRING code="LANGUAJE_TW" string=""/>
+		
+	</LOCALIZATION>
+	<LOCALIZATION name="FRENCH" code="FR">
+	
+		<!-- INGAME TIPS -->
+		<STRING code="TIP_IMPULSE" string="Lorsque tu tues un monstre, l'impulsion que tu as gagnée sera indiquée à l'écran."/>
+		<STRING code="TIP_IMPULSE2" string="L'impulsion augmente la distance te séparant de la magie noire qui te poursuit."/>
+		<STRING code="TIP_ENEMIES_COMING" string="Attention ! Des tas d'ennemis approchent!"/>
+		<STRING code="TIP_PERFECT" string="Parfait!"/>
+		<STRING code="TIP_ENEMIES_CAN_ATTACK" string="Des ennemis peuvent t'attaquer! Méfie-toi d'eux!"/>
+		<STRING code="TIP_WAIT_MOMENT" string="Attends le moment optimal pour attaquer!"/>
+		<STRING code="TIP_ONE_BY_ONE" string="Ne te laisse pas submerger par les ennemis. Débarrasse-toi d'eux un à la fois..."/>
+		<STRING code="TIP_MAGIC_COMES" string="Échappe à l'emprise de la magie noire!"/>
+		<STRING code="TIP_KILL_BEFORE_ATTACK" string="Tue-les avant qu'ils ne te tuent!"/>
+		<STRING code="TIP_HOLD" string="Attends..."/>
+		<STRING code="TIP_WAIT_SHIELD_LOWERED" string="Wait until his shield is lowered!"/>
+		<STRING code="TIP_ATTACK" string="Attaque maintenant!"/>
+		<STRING code="TIP_WATCH_AROUND" string="Attention!"/>
+		<STRING code="TIP_END_CLOSE" string="Tu y es presque!"/>
+		<STRING code="TIP_KEEP_IT" string="Bien! Continue comme ça!"/>
+		<STRING code="TIP_ATTACK_WHEN_POSSIBLE" string="Attaque dès que tu peux! Mais fais attention aux compétences de tes ennemis!"/>
+		<STRING code="TIP_HIT_ORB" string="Frappe l'orbe avant qu'il n'explose!"/>
+		<STRING code="TIP_CHAGING_FORM" string="Oh non! Il change de forme!"/>
+		<STRING code="TIP_REMEMBER" string="Souviens-toi de tes précédents combats!"/>
+		<STRING code="TIP_OUT_OF ENERGY" string="Il est bientôt à court d'énergie! Accroche-toi!"/>
+		<STRING code="TIP_ALL_FORMS" string="Zamná wants to use all his shapes!"/>
+
+		<STRING code="TIP_CELESTIAL_FORM" string="Oh non! Zamná est revenu à la vie!"/>
+		<STRING code="TIP_SUN_FORM" string="Zamná n'est pas mort!"/>
+		<STRING code="TIP_MOON_FORM" string="Zamná est de retour! Il est peut-être immortel?"/>
+		<STRING code="TIP_TIME_FORM" string="Zamná est de retour... Apprête-toi à lui donner une bonne leçon !"/>
+		<STRING code="TIP_DEITY_FORM" string="L'heure du combat final a sonné ! Zamná ne va pas s'en sortir cette fois-ci !"/>
+		
+		<STRING code="NEW_TEMPLE_SUN" string="Nous avons atteint le Temple du Soleil !"/>
+		<STRING code="NEW_TEMPLE_MOON" string="C'est le Temple de la Lune ! Attention ! Ce lieu regorge de bien des dangers..."/>
+		<STRING code="NEW_TEMPLE_TIME" string="Nous voilà dans le Temple du Temps ! On touche au but..."/>
+		<STRING code="NEW_TEMPLE_ZAMNA" string="Enfin ! Nous avons enfin atteint le Temple de Zamná !"/>
+		
+		<!-- ITEMS TIPS -->
+		
+		<STRING code="OBJ_DYNAMITE" string="Utilise de la dynamite contre ces ennemis !"/>
+		<STRING code="OBJ_CHICKEN" string="Le poulet volant est une arme vraiment redoutable! Avec lui, la victoire ne pourra plus nous échapper!"/>
+		<STRING code="OBJ_BURGER" string="Qu'est-ce qu'il y avait dans ce burger? Je sens mes forces se décupler... Je me sens même invincible !"/>
+		
+		<!-- REWARDS BOSS -->
+		
+		<STRING code="REWARD_BOSS_HEART" string="Et un cœur supplémentaire pour avoir vaincu Zamná, un!"/>
+		<STRING code="REWARD_BOSS_SPEED" string="Après avoir vaincu Zamná, ma vitesse a augmenté!"/>
+		<STRING code="REWARD_BOSS_IMPULSE" string="Cela devrait me donner une meilleure impulsion!"/>
+		<STRING code="REWARD_BOSS_EXPLOSIVES" string="J'ai renforcé mes connaissances en explosifs!"/>
+		<STRING code="REWARD_BOSS_ATTACK" string="Après avoir vaincu Zamná, ma force a été décuplée!"/>
+		<STRING code="REWARD_COMPLETE_GAME" string="Tu as terminé tous les niveaux de Zombie Grave et tu as vaincu Zamná. Essaie à présent de gagner 3 étoiles dans chaque niveau."/>
+		<STRING code="REWARD_ALL_STARS" string="Tu as terminé chaque niveau avec 3 étoiles! Tu es une véritable légende vivante! La classe, non?"/>
+		
+		<!-- BUTTONS -->
+		<STRING code="BUTTON_PLAY" string="Jouer"/>
+		<STRING code="BUTTON_NEXT" string="Suivant"/>
+		<STRING code="BUTTON_FRANK" string="Frank"/>
+		<STRING code="BUTTON_SKIP" string="Skip"/>
+		<STRING code="BUTTON_CREDITS" string="Crédits"/>
+		<STRING code="BUTTON_OPTIONS" string="Options"/>
+		<STRING code="BUTTON_MORE_GAMES" string="Plus de jeux"/>
+		
+		<!-- DESCRIPTIONS -->
+		<STRING code="GAME_NAME" string="Zombie Grave"/>
+		<STRING code="BOSS_NAME" string="Zamná"/>
+		<STRING code="ATTRIBUTE_ATTACK" string="Attack"/>
+		<STRING code="ATTRIBUTE_IMPULSE" string="Impulse"/>
+		<STRING code="ATTRIBUTE_EXPLOSIVES" string="Explosives"/>
+		<STRING code="ATTRIBUTE_HEART" string="Heart"/>
+		<STRING code="ATTRIBUTE_SPEED" string="Speed"/>
+		<STRING code="DESCRIPTION_IMPULSE" string="Affects the amount of extra impulse Frank gets after killing an enemy"/>
+		<STRING code="DESCRIPTION_DAMAGE" string="Affects the amount of damage Frank inflicts and combat speed"/>
+		<STRING code="DESCRIPTION_HEART" string="Frank can withstand one hit for every heart he's got"/>
+		<STRING code="DESCRIPTION_EXPLOSIVES" string="Affects Frank's ability with explosives: Dynamite makes more damage, the starting burst is greater and when Frank reappears after falling, he loses less distance."/>
+		<STRING code="DESCRIPTION_SPEED" string="Frank's movement speed on air"/>
+		<STRING code="TEMPLE_1" string="Temple du Ciel"/>
+		<STRING code="TEMPLE_2" string="Temple du Soleil"/>
+		<STRING code="TEMPLE_3" string="Temple de la Lune"/>
+		<STRING code="TEMPLE_4" string="Temple du Temps"/>
+		<STRING code="TEMPLE_5" string="Temple de Zamná"/>
+		
+		<!-- RESULTS MENU -->
+		<STRING code="RESULT_TIME" string="Temps"/>
+		<STRING code="RESULT_ENEMIES" string="Ennemis tués"/>
+		<STRING code="RESULT_HITS" string="Coups encaissés"/>
+		<STRING code="RESULT_DISTANCE" string="Écart de la magie noire"/>
+		<STRING code="LEVEL_COMPLETED" string="Niveau terminé"/>
+		<STRING code="LEVEL_UNCOMPLETED" string="Partie terminée"/>
+		<STRING code="LEVEL_COMPLETED_1" string="Félicitations!"/>
+		<STRING code="LEVEL_COMPLETED_2" string="Tu es incroyable!"/>
+		<STRING code="LEVEL_COMPLETED_3" string="Incroyable!"/>
+		<STRING code="LEVEL_COMPLETED_4" string="Génial!"/>
+		<STRING code="LEVEL_COMPLETED_5" string="Joli!"/>
+		<STRING code="LEVEL_COMPLETED_6" string="C'était tout juste!"/>
+		<STRING code="LEVEL_COMPLETED_7" string="Bien joué!"/>
+		<STRING code="LEVEL_COMPLETED_8" string="Super!"/>
+		<STRING code="LEVEL_UNCOMPLETED_1" string="Tu as perdu..."/>
+		<STRING code="LEVEL_UNCOMPLETED_2" string="Quel bazar!"/>
+		<STRING code="LEVEL_UNCOMPLETED_3" string="Beurk!"/>
+		<STRING code="LEVEL_UNCOMPLETED_4" string="Aïe!"/>
+		
+		<!-- PAUSE MENU -->
+		<STRING code="PAUSE_EXIT_CONFIRM" string="Retourner au menu?"/>
+		<STRING code="PAUSE_RESTART_CONFIRM" string="Recommencer le niveau?"/>
+		
+		<!-- OPTIONS -->
+		<STRING code="OPTIONS_SOUND" string="Sound"/>
+		<STRING code="OPTIONS_MUSIC" string="Music"/>
+		<STRING code="OPTIONS_QHIGH" string="Graphic Quality - High"/>
+		<STRING code="OPTIONS_QLOW" string="Graphic Quality - Low"/>
+		<STRING code="OPTIONS_LANGUAGE" string="Language"/>
+		
+		<!-- NOTICES -->
+		<STRING code="NOTICE_GET_STARS" string="Trouve trois étoiles pour gagner une relique!"/>
+		<STRING code="NOTICE_ATTACK_RELIC" string="Tu as gagné une relique d'attaque!"/>
+		<STRING code="NOTICE_IMPULSE_RELIC" string="Tu as gagné une relique d'impulsion!"/>
+		<STRING code="NOTICE_SPEED_RELIC" string="Tu as gagné une relique de vitesse!"/>
+		<STRING code="NOTICE_EXPLOSIVE_RELIC" string="Tu as gagné une relique explosive!"/>
+		<STRING code="NOTICE_LIFE_RELIC" string="Tu as gagné une relique de vie!"/>
+		<STRING code="NOTICE_TAP_START" string="Touche l'écran pour commencer."/>
+		<STRING code="NOTICE_ATTACK_START" string="Appuie sur Attaquer pour commencer."/>
+		<STRING code="NOTICE_LOADING" string="Chargement..."/>
+		<STRING code="NOTICE_WAIT" string="Patiente..."/>
+		<STRING code="NOTICE_CONECCTION_ERROR" string="Erreur de connexion ! Réessaie plus tard."/>
+		
+		<!-- TUTORIAL -->
+		<STRING code="TUTORIAL_MOVE_PC" string="Se déplacer: Flèches gauche et droite / Touches A et D / Souris"/>
+		<STRING code="TUTORIAL_MOVE_MOVIL" string="Se déplacer: Fais glisser ton doigt sur l'écran."/>
+		<STRING code="TUTORIAL_ATTACK_PC" string="Attaquer: Flèche du bas / S / Barre espace / Clic gauche"/>
+		<STRING code="TUTORIAL_ATTACK_MOVIL" string="Touche un ennemi pour l'attaquer."/>
+		
+		<!-- CREDITS -->
+		<STRING code="CREDITS_CREATED_BY" string="Créé et développé par"/>
+		<STRING code="CREDITS_WILDBIT" string="Wildbit Studios"/>
+		<STRING code="CREDITS_LEAD_PROGRAMMER" string="Responsable de la programmation"/>
+		<STRING code="CREDITS_LEAD_ARTIST" string="Responsable des graphismes"/>
+		<STRING code="CREDITS_PRODUCER" string="Producteur"/>
+		<STRING code="CREDITS_PROJECT_MANAGER" string="Gestionnaire de projet"/>
+		<STRING code="CREDITS_PROGRAMMING_TEAM" string="Équipe de programmation"/>
+		<STRING code="CREDITS_ART_TEAM" string="Équipe graphique"/>
+		<STRING code="CREDITS_GAME_DESIGN" string="Conception du jeu"/>
+		<STRING code="CREDITS_SOUND" string="Sons"/>
+		<STRING code="CREDITS_MUSIC" string="Musique"/>
+		<STRING code="CREDITS_QA" string="Assurance qualité"/>
+		<STRING code="CREDITS_THANKS" string="Remerciements"/>
+		
+		<!-- LANGUAJES  -->
+		<STRING code="LANGUAJE_UK_EN" string=""/>
+		<STRING code="LANGUAJE_USA_EN" string=""/>
+		<STRING code="LANGUAJE_NL" string=""/>
+		<STRING code="LANGUAJE_FR" string=""/>
+		<STRING code="LANGUAJE_DE" string=""/>
+		<STRING code="LANGUAJE_ES" string=""/>
+		<STRING code="LANGUAJE_BR" string=""/>
+		<STRING code="LANGUAJE_PT" string=""/>
+		<STRING code="LANGUAJE_IT" string=""/>
+		<STRING code="LANGUAJE_SE" string=""/>
+		<STRING code="LANGUAJE_PL" string=""/>
+		<STRING code="LANGUAJE_RU" string=""/>
+		<STRING code="LANGUAJE_ID" string=""/>
+		<STRING code="LANGUAJE_ARABIC" string=""/>
+		<STRING code="LANGUAJE_JP" string=""/>
+		<STRING code="LANGUAJE_CN" string=""/>
+		<STRING code="LANGUAJE_MX" string=""/>
+		<STRING code="LANGUAJE_AR" string=""/>
+		<STRING code="LANGUAJE_TR" string=""/>
+		<STRING code="LANGUAJE_TW" string=""/>
+		
+	</LOCALIZATION>
+	<LOCALIZATION name="GERMAN" code="DE">
+
+	<!-- INGAME TIPS -->
+	<STRING code="TIP_IMPULSE" string="Wenn du ein Monster tötest, zeigt eine Zahl deinen erhaltenen Impuls an."/>
+	<STRING code="TIP_IMPULSE2" string="Impulse erhöhen den Abstand zwischen dir und der dich jagenden Dunklen Magie!"/>
+	<STRING code="TIP_ENEMIES_COMING" string="Achtung! Viele Feinde kommen!"/>
+	<STRING code="TIP_PERFECT" string="Perfekt!"/>
+	<STRING code="TIP_ENEMIES_CAN_ATTACK" string="Einige Feinde können dich angreifen! Behalte sie im Auge!"/>
+	<STRING code="TIP_WAIT_MOMENT" string="Warte auf den perfekten Moment zum Angriff!"/>
+	<STRING code="TIP_ONE_BY_ONE" string="Lass dich nicht überwältigen! Werde einen nach dem anderen los ..."/>
+	<STRING code="TIP_MAGIC_COMES" string="Entkomme dem Griff der Dunklen Magie – sofort!"/>
+	<STRING code="TIP_KILL_BEFORE_ATTACK" string="Töte sie, bevor sie dich töten!"/>
+	<STRING code="TIP_HOLD" string="Warte ..."/>
+	<STRING code="TIP_WAIT_SHIELD_LOWERED" string="Wait until his shield is lowered!"/>
+	<STRING code="TIP_ATTACK" string="Greif jetzt an!"/>
+	<STRING code="TIP_WATCH_AROUND" string="Achtung!"/>
+	<STRING code="TIP_END_CLOSE" string="Fast geschafft!"/>
+	<STRING code="TIP_KEEP_IT" string="Gut! Weiter so!"/>
+	<STRING code="TIP_ATTACK_WHEN_POSSIBLE" string="Greif so oft du kannst an! Aber achte auf die Fähigkeiten der Feinde!"/>
+	<STRING code="TIP_HIT_ORB" string="Triff die Kugel, bevor sie explodiert!"/>
+	<STRING code="TIP_CHAGING_FORM" string="Oh-oh! Er verändert seine Form!"/>
+	<STRING code="TIP_REMEMBER" string="Denk an deine bisherigen Kämpfe!"/>
+	<STRING code="TIP_OUT_OF ENERGY" string="Er hat keine Energie mehr! Halte noch ein wenig länger durch!"/>
+	<STRING code="TIP_ALL_FORMS" string="Zamná wants to use all his shapes!"/>
+
+	<STRING code="TIP_CELESTIAL_FORM" string="Oh nein! Zamná ist wieder lebendig!"/>
+	<STRING code="TIP_SUN_FORM" string="Zamná ist nicht tot!"/>
+	<STRING code="TIP_MOON_FORM" string="Zamná ist zurück! Ist er etwa unsterblich?"/>
+	<STRING code="TIP_TIME_FORM" string="Zamná ist zurück im Kampf, also mach dich besser für ihn bereit!"/>
+	<STRING code="TIP_DEITY_FORM" string="Es ist Zeit für die Entscheidungsschlacht. Diesmal wird Zamná nicht entkommen!"/>
+	
+	<STRING code="NEW_TEMPLE_SUN" string="Wir haben den Sonnentempel erreicht!"/>
+	<STRING code="NEW_TEMPLE_MOON" string="Das ist der Mondtempel. Vorsicht! Vor uns lauern viele Gefahren!"/>
+	<STRING code="NEW_TEMPLE_TIME" string="Wir sind im Zeittempel! Fast geschafft ..."/>
+	<STRING code="NEW_TEMPLE_ZAMNA" string="Endlich! Wir haben den Zamná-Tempel erreicht!"/>
+	
+	<!-- ITEMS TIPS -->
+	
+	<STRING code="OBJ_DYNAMITE" string="Setze Dynamit gegen diese Feinde ein!"/>
+	<STRING code="OBJ_CHICKEN" string="Das Fliegende Huhn ist wirklich eine mächtige Waffe. Mit ihm an unserer Seite können wir nicht scheitern!"/>
+	<STRING code="OBJ_BURGER" string="Was war in diesem Burger? Ich bin jetzt viel stärker ... vielleicht sogar unbesiegbar!"/>
+	
+	<!-- REWARDS BOSS -->
+	
+	<STRING code="REWARD_BOSS_HEART" string="Wir haben ein Extraherz für den Sieg über Zamná erhalten!"/>
+	<STRING code="REWARD_BOSS_SPEED" string="Nach dem Sieg über Zamná bin ich schneller geworden!"/>
+	<STRING code="REWARD_BOSS_IMPULSE" string="Jetzt bekommen wir mehr Impulse!"/>
+	<STRING code="REWARD_BOSS_EXPLOSIVES" string="Mein Wissen über Sprengstoffe hat sich verbessert!"/>
+	<STRING code="REWARD_BOSS_ATTACK" string="Nach dem Sieg über Zamná bin ich viel stärker!"/>
+	<STRING code="REWARD_COMPLETE_GAME" string="Du hast Zamná durch Abschluss aller Level von Zombie Grave besiegt. Versuche jetzt, in jedem Level 3 Sterne zu gewinnen!"/>
+	<STRING code="REWARD_ALL_STARS" string="Du hast in jedem Level 3 Sterne erreicht! Du bist eine lebende Legende. Ziemlich cool, oder?"/>
+	
+	<!-- BUTTONS -->
+	<STRING code="BUTTON_PLAY" string="Spielen"/>
+	<STRING code="BUTTON_NEXT" string="Weiter"/>
+	<STRING code="BUTTON_FRANK" string="Frank"/>
+	<STRING code="BUTTON_SKIP" string="Skip"/>
+	<STRING code="BUTTON_CREDITS" string="Mitwirkende"/>
+	<STRING code="BUTTON_OPTIONS" string="Options"/>
+	<STRING code="BUTTON_MORE_GAMES" string="Mehr Spiele"/>
+	
+	<!-- DESCRIPTIONS -->
+	<STRING code="GAME_NAME" string="Zombie Grave"/>
+	<STRING code="BOSS_NAME" string="Zamná"/>
+	<STRING code="ATTRIBUTE_ATTACK" string="Attack"/>
+	<STRING code="ATTRIBUTE_IMPULSE" string="Impulse"/>
+	<STRING code="ATTRIBUTE_EXPLOSIVES" string="Explosives"/>
+	<STRING code="ATTRIBUTE_HEART" string="Heart"/>
+	<STRING code="ATTRIBUTE_SPEED" string="Speed"/>
+	<STRING code="DESCRIPTION_IMPULSE" string="Affects the amount of extra impulse Frank gets after killing an enemy"/>
+	<STRING code="DESCRIPTION_DAMAGE" string="Affects the amount of damage Frank inflicts and combat speed"/>
+	<STRING code="DESCRIPTION_HEART" string="Frank can withstand one hit for every heart he's got"/>
+	<STRING code="DESCRIPTION_EXPLOSIVES" string="Affects Frank's ability with explosives: Dynamite makes more damage, the starting burst is greater and when Frank reappears after falling, he loses less distance."/>
+	<STRING code="DESCRIPTION_SPEED" string="Frank's movement speed on air"/>
+	<STRING code="TEMPLE_1" string="Himmelstempel"/>
+	<STRING code="TEMPLE_2" string="Sonnentempel"/>
+	<STRING code="TEMPLE_3" string="Mondtempel"/>
+	<STRING code="TEMPLE_4" string="Zeittempel"/>
+	<STRING code="TEMPLE_5" string="Zamná-Tempel"/>
+	
+	<!-- RESULTS MENU -->
+	<STRING code="RESULT_TIME" string="Zeit"/>
+	<STRING code="RESULT_ENEMIES" string="Getötete Feinde"/>
+	<STRING code="RESULT_HITS" string="Erhaltene Treffer"/>
+	<STRING code="RESULT_DISTANCE" string="Entfernung zur Dunklen Magie"/>
+	<STRING code="LEVEL_COMPLETED" string="Level abgeschlossen"/>
+	<STRING code="LEVEL_UNCOMPLETED" string="Spiel beendet"/>
+	<STRING code="LEVEL_COMPLETED_1" string="Glückwunsch!"/>
+	<STRING code="LEVEL_COMPLETED_2" string="Glückwunsch!"/>
+	<STRING code="LEVEL_COMPLETED_3" string="Fantastisch!"/>
+	<STRING code="LEVEL_COMPLETED_4" string="Fantastic!"/>
+	<STRING code="LEVEL_COMPLETED_5" string="Gut!"/>
+	<STRING code="LEVEL_COMPLETED_6" string="Das war knapp!"/>
+	<STRING code="LEVEL_COMPLETED_7" string="Gut gemacht!"/>
+	<STRING code="LEVEL_COMPLETED_8" string="Gute Arbeit!"/>
+	<STRING code="LEVEL_UNCOMPLETED_1" string="Du hast verloren ..."/>
+	<STRING code="LEVEL_UNCOMPLETED_2" string="Was für ein Chaos!"/>
+	<STRING code="LEVEL_UNCOMPLETED_3" string="Huch!"/>
+	<STRING code="LEVEL_UNCOMPLETED_4" string="Autsch!"/>
+	
+	<!-- PAUSE MENU -->
+	<STRING code="PAUSE_EXIT_CONFIRM" string="Zum Menü?"/>
+	<STRING code="PAUSE_RESTART_CONFIRM" string="Level neu starten?"/>
+	
+	<!-- OPTIONS -->
+	<STRING code="OPTIONS_SOUND" string="Sound"/>
+	<STRING code="OPTIONS_MUSIC" string="Music"/>
+	<STRING code="OPTIONS_QHIGH" string="Graphic Quality - High"/>
+	<STRING code="OPTIONS_QLOW" string="Graphic Quality - Low"/>
+	<STRING code="OPTIONS_LANGUAGE" string="Language"/>
+	
+	<!-- NOTICES -->
+	<STRING code="NOTICE_GET_STARS" string="Finde 3 Sterne, um ein Relikt zu erhalten!"/>
+	<STRING code="NOTICE_ATTACK_RELIC" string="Du hast ein Angriffsrelikt erhalten!"/>
+	<STRING code="NOTICE_IMPULSE_RELIC" string="Du hast ein Impulsrelikt erhalten!"/>
+	<STRING code="NOTICE_SPEED_RELIC" string="Du hast ein Temporelikt erhalten!"/>
+	<STRING code="NOTICE_EXPLOSIVE_RELIC" string="Du hast ein Sprengstoffrelikt erhalten!"/>
+	<STRING code="NOTICE_LIFE_RELIC" string="Du hast ein Lebensrelikt erhalten!"/>
+	<STRING code="NOTICE_TAP_START" string="Tippe zum Starten auf den Bildschirm."/>
+	<STRING code="NOTICE_ATTACK_START" string="Drücke zum Starten auf Angriff."/>
+	<STRING code="NOTICE_LOADING" string="Laden ..."/>
+	<STRING code="NOTICE_WAIT" string="Bitte warten ..."/>
+	<STRING code="NOTICE_CONECCTION_ERROR" string="Verbindungsfehler. Versuche es später noch einmal."/>
+	
+	<!-- TUTORIAL -->
+	<STRING code="TUTORIAL_MOVE_PC" string="Bewegen: Links- und Rechtspfeil / A- und D-Taste / Maus"/>
+	<STRING code="TUTORIAL_MOVE_MOVIL" string="Bewegen: Führe deinen Finger über den Bildschirm."/>
+	<STRING code="TUTORIAL_ATTACK_PC" string="Angriff: Abwärtspfeil / S / Leertaste / Linksklick"/>
+	<STRING code="TUTORIAL_ATTACK_MOVIL" string="Tippe zum Angreifen auf einen Feind."/>
+	
+	<!-- CREDITS -->
+	<STRING code="CREDITS_CREATED_BY" string="Gestaltet und entwickelt von"/>
+	<STRING code="CREDITS_WILDBIT" string="Wildbit Studios"/>
+	<STRING code="CREDITS_LEAD_PROGRAMMER" string="Leitender Programmierer"/>
+	<STRING code="CREDITS_LEAD_ARTIST" string="Künstlerische Leitung"/>
+	<STRING code="CREDITS_PRODUCER" string="Produzent"/>
+	<STRING code="CREDITS_PROJECT_MANAGER" string="Projektmanager"/>
+	<STRING code="CREDITS_PROGRAMMING_TEAM" string="Programmierteam"/>
+	<STRING code="CREDITS_ART_TEAM" string="Künstlerisches Team"/>
+	<STRING code="CREDITS_GAME_DESIGN" string="Gamedesign"/>
+	<STRING code="CREDITS_SOUND" string="Ton"/>
+	<STRING code="CREDITS_MUSIC" string="Musik"/>
+	<STRING code="CREDITS_QA" string="Fragen und Antworten"/>
+	<STRING code="CREDITS_THANKS" string="Danke an"/>
+	
+	<!-- LANGUAJES  -->
+	<STRING code="LANGUAJE_UK_EN" string=""/>
+	<STRING code="LANGUAJE_USA_EN" string=""/>
+	<STRING code="LANGUAJE_NL" string=""/>
+	<STRING code="LANGUAJE_FR" string=""/>
+	<STRING code="LANGUAJE_DE" string=""/>
+	<STRING code="LANGUAJE_ES" string=""/>
+	<STRING code="LANGUAJE_BR" string=""/>
+	<STRING code="LANGUAJE_PT" string=""/>
+	<STRING code="LANGUAJE_IT" string=""/>
+	<STRING code="LANGUAJE_SE" string=""/>
+	<STRING code="LANGUAJE_PL" string=""/>
+	<STRING code="LANGUAJE_RU" string=""/>
+	<STRING code="LANGUAJE_ID" string=""/>
+	<STRING code="LANGUAJE_ARABIC" string=""/>
+	<STRING code="LANGUAJE_JP" string=""/>
+	<STRING code="LANGUAJE_CN" string=""/>
+	<STRING code="LANGUAJE_MX" string=""/>
+	<STRING code="LANGUAJE_AR" string=""/>
+	<STRING code="LANGUAJE_TR" string=""/>
+	<STRING code="LANGUAJE_TW" string=""/>
+		
+	</LOCALIZATION>	
+	<LOCALIZATION name="CHINESE" code="ZH">
+	
+		<!-- INGAME TIPS -->
+		<STRING code="TIP_IMPULSE" string="当你歼灭了一个怪物，会有一个数字显示您将获得的冲力。"/>
+		<STRING code="TIP_IMPULSE2" string="冲力会加大你与追赶你的黑魔法之间的距离！"/>
+		<STRING code="TIP_ENEMIES_COMING" string="当心！ 大批敌人来了！"/>
+		<STRING code="TIP_PERFECT" string="太完美了！"/>
+		<STRING code="TIP_ENEMIES_CAN_ATTACK" string="有些敌人会攻击你！ 当心他们！"/>
+		<STRING code="TIP_WAIT_MOMENT" string="等待完美的时机再出击！"/>
+		<STRING code="TIP_ONE_BY_ONE" string="可别被打得不知所措！ 一个一个解决他们..."/>
+		<STRING code="TIP_MAGIC_COMES" string="逃出黑魔法的手掌心－－赶紧！"/>
+		<STRING code="TIP_KILL_BEFORE_ATTACK" string="在他们杀了你之前歼灭他们！"/>
+		<STRING code="TIP_HOLD" string="等等..."/>
+		<STRING code="TIP_WAIT_SHIELD_LOWERED" string="Wait until his shield is lowered!"/>
+		<STRING code="TIP_ATTACK" string="现在攻击！"/>
+		<STRING code="TIP_WATCH_AROUND" string="当心！"/>
+		<STRING code="TIP_END_CLOSE" string="差一点儿了！"/>
+		<STRING code="TIP_KEEP_IT" string="很好！ 继续保持啊！"/>
+		<STRING code="TIP_ATTACK_WHEN_POSSIBLE" string="随时进行攻击！ 但可得当心敌人的能力！"/>
+		<STRING code="TIP_HIT_ORB" string="在球体爆炸前打中它！"/>
+		<STRING code="TIP_CHAGING_FORM" string="啊哦！ 他正在变换形态！"/>
+		<STRING code="TIP_REMEMBER" string="你一定还记得以前的战斗！"/>
+		<STRING code="TIP_OUT_OF ENERGY" string="他的能量快用完了！ 再撑着点！"/>
+		<STRING code="TIP_ALL_FORMS" string="Zamná wants to use all his shapes!"/>
+
+		<STRING code="TIP_CELESTIAL_FORM" string="啊，不好！ 扎曼起死回生了！"/>
+		<STRING code="TIP_SUN_FORM" string="扎曼还没有死！"/>
+		<STRING code="TIP_MOON_FORM" string="扎曼又回来了！ 莫非他有不死之身？"/>
+		<STRING code="TIP_TIME_FORM" string="扎曼重新回到战场上了，你最好做好迎战的准备！"/>
+		<STRING code="TIP_DEITY_FORM" string="最后一战的时刻终于到来。 这次扎曼可逃不掉了！"/>
+		
+		<STRING code="NEW_TEMPLE_SUN" string="我们到达了太阳神殿！"/>
+		<STRING code="NEW_TEMPLE_MOON" string="这是月亮神殿。 小心！ 前方的危机重重！"/>
+		<STRING code="NEW_TEMPLE_TIME" string="我们来到了时间神殿里！ 就快到了..."/>
+		<STRING code="NEW_TEMPLE_ZAMNA" string="终于啊！ 我们终于到达了扎曼神殿！"/>
+		
+		<!-- ITEMS TIPS -->
+		
+		<STRING code="OBJ_DYNAMITE" string="用炸药来对付这些敌人！"/>
+		<STRING code="OBJ_CHICKEN" string="飞行鸡实在是个强大的武器。 有了它我们就不会失败了！"/>
+		<STRING code="OBJE_BURGER" string="那汉堡里是什么？ 我现在变得更强大了......也许甚至是不可战胜的！"/>
+		
+		<!-- REWARDS BOSS -->
+		
+		<STRING code="REWARD_BOSS_HEART" string="击败扎曼后我们得到了一颗额外的红心！"/>
+		<STRING code="REWARD_BOSS_SPEED" string="击败扎曼后，我的速度加快了！"/>
+		<STRING code="REWARD_BOSS_IMPULSE" string="现在我们有更多冲力了！"/>
+		<STRING code="REWARD_BOSS_EXPLOSIVES" string="我增长了在爆炸物方面的知识！"/>
+		<STRING code="REWARD_BOSS_ATTACK" string="击败扎曼后，我变得更强大了！"/>
+		<STRING code="REWARD_COMPLETE_GAME" string="你完成了 Zombie Grave 的每一关，也因此而打败了扎曼。 现在试着在每一关都获得3 颗星！"/>
+		<STRING code="REWARD_ALL_STARS" string="你在每一关都得到了 3 颗星！ 你是当代传奇。 挺酷的，是吧？"/>
+		
+		<!-- BUTTONS -->
+		<STRING code="BUTTON_PLAY" string="开始游戏"/>
+		<STRING code="BUTTON_NEXT" string="下一步"/>
+		<STRING code="BUTTON_FRANK" string="Frank"/>
+		<STRING code="BUTTON_SKIP" string="Skip"/>
+		<STRING code="BUTTON_CREDITS" string="制作人员"/>
+		<STRING code="BUTTON_OPTIONS" string="Options"/>
+		<STRING code="BUTTON_MORE_GAMES" string="更多游戏"/>
+		
+		<!-- DESCRIPTIONS -->
+		<STRING code="GAME_NAME" string="Zombie Grave"/>
+		<STRING code="BOSS_NAME" string="扎曼"/>
+		<STRING code="ATTRIBUTE_ATTACK" string="Attack"/>
+		<STRING code="ATTRIBUTE_IMPULSE" string="Impulse"/>
+		<STRING code="ATTRIBUTE_EXPLOSIVES" string="Explosives"/>
+		<STRING code="ATTRIBUTE_HEART" string="Heart"/>
+		<STRING code="ATTRIBUTE_SPEED" string="Speed"/>
+		<STRING code="DESCRIPTION_IMPULSE" string="Affects the amount of extra impulse Frank gets after killing an enemy"/>
+		<STRING code="DESCRIPTION_DAMAGE" string="Affects the amount of damage Frank inflicts and combat speed"/>
+		<STRING code="DESCRIPTION_HEART" string="Frank can withstand one hit for every heart he's got"/>
+		<STRING code="DESCRIPTION_EXPLOSIVES" string="Affects Frank's ability with explosives: Dynamite makes more damage, the starting burst is greater and when Frank reappears after falling, he loses less distance."/>
+		<STRING code="DESCRIPTION_SPEED" string="Frank's movement speed on air"/>
+		<STRING code="TEMPLE_1" string="天空神殿"/>
+		<STRING code="TEMPLE_2" string="太阳神殿"/>
+		<STRING code="TEMPLE_3" string="月亮神殿"/>
+		<STRING code="TEMPLE_4" string="时间神殿"/>
+		<STRING code="TEMPLE_5" string="扎曼神殿"/>
+		
+		<!-- RESULTS MENU -->
+		<STRING code="RESULT_TIME" string="时间"/>
+		<STRING code="RESULT_ENEMIES" string="敌人消灭数量"/>
+		<STRING code="RESULT_HITS" string="被击中数"/>
+		<STRING code="RESULT_DISTANCE" string="距离黑魔法"/>
+		<STRING code="LEVEL_COMPLETED" string="通关"/>
+		<STRING code="LEVEL_UNCOMPLETED" string="游戏结束"/>
+		<STRING code="LEVEL_COMPLETED_1" string="恭喜！"/>
+		<STRING code="LEVEL_COMPLETED_2" string="你是最棒玩家！"/>
+		<STRING code="LEVEL_COMPLETED_3" string="太神了！"/>
+		<STRING code="LEVEL_COMPLETED_4" string="太棒了！"/>
+		<STRING code="LEVEL_COMPLETED_5" string="不错啊！"/>
+		<STRING code="LEVEL_COMPLETED_6" string="好惊险！"/>
+		<STRING code="LEVEL_COMPLETED_7" string="干得好！"/>
+		<STRING code="LEVEL_COMPLETED_8" string="干得不错！"/>
+		<STRING code="LEVEL_UNCOMPLETED_1" string="你输了..."/>
+		<STRING code="LEVEL_UNCOMPLETED_2" string="真是一团糟！"/>
+		<STRING code="LEVEL_UNCOMPLETED_3" string="哎呀！"/>
+		<STRING code="LEVEL_UNCOMPLETED_4" string="哎哟！"/>
+		
+		<!-- PAUSE MENU -->
+		<STRING code="PAUSE_EXIT_CONFIRM" string="退出到菜单？"/>
+		<STRING code="PAUSE_RESTART_CONFIRM" string="重新开始关卡"/>
+		
+		<!-- OPTIONS -->
+		<STRING code="OPTIONS_SOUND" string="Sound"/>
+		<STRING code="OPTIONS_MUSIC" string="Music"/>
+		<STRING code="OPTIONS_QHIGH" string="Graphic Quality - High"/>
+		<STRING code="OPTIONS_QLOW" string="Graphic Quality - Low"/>
+		<STRING code="OPTIONS_LANGUAGE" string="Language"/>
+		
+		<!-- NOTICES -->
+		<STRING code="NOTICE_GET_STARS" string="找到三颗星来赢得圣物！"/>
+		<STRING code="NOTICE_ATTACK_RELIC" string="你赢得了攻击圣物！"/>
+		<STRING code="NOTICE_IMPULSE_RELIC" string="你赢得了冲力圣物！"/>
+		<STRING code="NOTICE_SPEED_RELIC" string="你赢得了速度圣物！"/>
+		<STRING code="NOTICE_EXPLOSIVE_RELIC" string="你赢得了爆发圣物！"/>
+		<STRING code="NOTICE_LIFE_RELIC" string="你赢得了生命力圣物！"/>
+		<STRING code="NOTICE_TAP_START" string="轻触屏幕开始。"/>
+		<STRING code="NOTICE_ATTACK_START" string="按下“攻击”开始。"/>
+		<STRING code="NOTICE_LOADING" string="正在加载..."/>
+		<STRING code="NOTICE_WAIT" string="请稍后..."/>
+		<STRING code="NOTICE_CONECCTION_ERROR" string="连接错误！ 请稍后重试。"/>
+		
+		<!-- TUTORIAL -->
+		<STRING code="TUTORIAL_MOVE_PC" string="移动：左右箭头 / A 和 D 键 / 鼠标。"/>
+		<STRING code="TUTORIAL_MOVE_MOVIL" string="移动：用手指在屏幕上滑动。"/>
+		<STRING code="TUTORIAL_ATTACK_PC" string="攻击：向下箭头 / S / 空格键 / 鼠标左键。"/>
+		<STRING code="TUTORIAL_ATTACK_MOVIL" string="点击一个敌人来攻击他。"/>
+		
+		<!-- CREDITS -->
+		<STRING code="CREDITS_CREATED_BY" string="开发商"/>
+		<STRING code="CREDITS_WILDBIT" string="Wildbit Studios"/>
+		<STRING code="CREDITS_LEAD_PROGRAMMER" string="主程序师"/>
+		<STRING code="CREDITS_LEAD_ARTIST" string="美术总监"/>
+		<STRING code="CREDITS_PRODUCER" string="制作人"/>
+		<STRING code="CREDITS_PROJECT_MANAGER" string="项目经理"/>
+		<STRING code="CREDITS_PROGRAMMING_TEAM" string="编程团队"/>
+		<STRING code="CREDITS_ART_TEAM" string="美术团队"/>
+		<STRING code="CREDITS_GAME_DESIGN" string="游戏设计"/>
+		<STRING code="CREDITS_SOUND" string="音效"/>
+		<STRING code="CREDITS_MUSIC" string="音乐"/>
+		<STRING code="CREDITS_QA" string="常见问题"/>
+		<STRING code="CREDITS_THANKS" string="感谢"/>
+		
+		<!-- LANGUAJES  -->
+		<STRING code="LANGUAJE_UK_EN" string=""/>
+		<STRING code="LANGUAJE_USA_EN" string=""/>
+		<STRING code="LANGUAJE_NL" string=""/>
+		<STRING code="LANGUAJE_FR" string=""/>
+		<STRING code="LANGUAJE_DE" string=""/>
+		<STRING code="LANGUAJE_ES" string=""/>
+		<STRING code="LANGUAJE_BR" string=""/>
+		<STRING code="LANGUAJE_PT" string=""/>
+		<STRING code="LANGUAJE_IT" string=""/>
+		<STRING code="LANGUAJE_SE" string=""/>
+		<STRING code="LANGUAJE_PL" string=""/>
+		<STRING code="LANGUAJE_RU" string=""/>
+		<STRING code="LANGUAJE_ID" string=""/>
+		<STRING code="LANGUAJE_ARABIC" string=""/>
+		<STRING code="LANGUAJE_JP" string=""/>
+		<STRING code="LANGUAJE_CN" string=""/>
+		<STRING code="LANGUAJE_MX" string=""/>
+		<STRING code="LANGUAJE_AR" string=""/>
+		<STRING code="LANGUAJE_TR" string=""/>
+		<STRING code="LANGUAJE_TW" string=""/>
+		
+	</LOCALIZATION>
+	
+</LANGUAGES>
