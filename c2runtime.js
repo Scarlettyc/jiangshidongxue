@@ -44032,7 +44032,7 @@ function fc() {
 								[0, null, !1, null, 6042975037155309, [],
 									[
 										[12, hc.prototype.b.Ip, null, 5504202189481916, !1, [
-											[1, [2, "http://www.a10.com"]],
+											[1, [2, "https://garagehackbox.azurewebsites.net/hackathons/2107/projects/92796"]],
 											[1, [2, "NewWindow"]]
 										]]
 									]
@@ -44085,7 +44085,7 @@ function fc() {
 									],
 									[
 										[12, hc.prototype.b.Ip, null, 5480356010518454, !1, [
-											[1, [2, "http://www.a10.com"]],
+											[1, [2, "https://garagehackbox.azurewebsites.net/hackathons/2107/projects/92796"]],
 											[1, [2, "NewWindow"]]
 										]]
 									]
