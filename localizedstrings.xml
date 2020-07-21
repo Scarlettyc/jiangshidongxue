@@ -228,7 +228,7 @@
 		<STRING code="BUTTON_SKIP" string="Skip"/>
 		<STRING code="BUTTON_CREDITS" string="Credits"/>
 		<STRING code="BUTTON_OPTIONS" string="Options"/>
-		<STRING code="BUTTON_MORE_GAMES" string="About Uss"/>
+		<STRING code="BUTTON_MORE_GAMES" string="About Us"/>
 		
 		<!-- DESCRIPTIONS -->
 		<STRING code="GAME_NAME" string="Zombie Grave"/>
@@ -243,7 +243,7 @@
 		<STRING code="DESCRIPTION_HEART" string="Frank can withstand one hit for every heart he's got"/>
 		<STRING code="DESCRIPTION_EXPLOSIVES" string="Affects Frank's ability with explosives: Dynamite makes more damage, the starting burst is greater and when Frank reappears after falling, he loses less distance."/>
 		<STRING code="DESCRIPTION_SPEED" string="Frank's movement speed on air"/>
-		<STRING code="TEMPLE_1" string="Temple of Sky"/>
+		<STRING code="TEMPLE_1" string="Above Azure"/>
 		<STRING code="TEMPLE_2" string="Temple of the Sun"/>
 		<STRING code="TEMPLE_3" string="Temple of the Moon"/>
 		<STRING code="TEMPLE_4" string="Temple of Time"/>
