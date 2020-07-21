@@ -228,7 +228,7 @@
 		<STRING code="BUTTON_SKIP" string="Skip"/>
 		<STRING code="BUTTON_CREDITS" string="Credits"/>
 		<STRING code="BUTTON_OPTIONS" string="Options"/>
-		<STRING code="BUTTON_MORE_GAMES" string="More Games"/>
+		<STRING code="BUTTON_MORE_GAMES" string="About Uss"/>
 		
 		<!-- DESCRIPTIONS -->
 		<STRING code="GAME_NAME" string="Zombie Grave"/>
