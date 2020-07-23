@@ -45702,21 +45702,9 @@ function fc() {
 			]],
 			["LocalizedStrings", [
 				[1, "CurrentLanguage", 0, 0, !1, !1, 0xf0d5015316406, !1],
-				[1, "SPANISH", 1, "ES", !1, !0, 7603728417388561, !1],
 				[1, "ENGLISH", 1, "EN", !1, !0, 8172094587946401, !1],
 				[1, "CHINESE", 1, "ZH", !1, !0, 8476484256917119, !1],
-				[1, "GERMAN", 1, "DE", !1, !0, 0x6ab11b3ecb9ef, !1],
-				[1, "FRENCH", 1, "FR", !1, !0, 0x416ab7c554408, !1],
-				[1, "INDONESIAN", 1, "ID", !1, !0, 445553675437896, !1],
-				[1, "ITALIAN", 1, "IT", !1, !0, 0x7f866692ee42a, !1],
-				[1, "DUTCH", 1, "NL", !1, !0, 554349745637517, !1],
-				[1, "POLISH", 1, "PL", !1, !0, 0xaeffa7f2ef6e6, !1],
-				[1, "PORTUGUESE",
-					1, "PT", !1, !0, 0xc604cc54a3a15, !1
-				],
-				[1, "RUSSIAN", 1, "RU", !1, !0, 5217578634347619, !1],
-				[1, "SWEDISH", 1, "SV", !1, !0, 9727802325404166, !1],
-				[1, "TURKISH", 1, "TR", !1, !0, 0xb59f470680959, !1],
+
 				[1, "FUNC_LOAD_LOCALIZEDSTRINGS", 1, "FUNC_LOAD_LOCALIZEDSTRINGS", !1, !0, 6255706407571644, !1],
 				[1, "LS", 1, "LS", !1, !0, 0x6dcced08f3e12, !1],
 				[1, "WS_LANGUAGE", 1, "WS_LANGUAGE", !1, !1, 6988208347859994, !1],
@@ -45743,12 +45731,7 @@ function fc() {
 									[
 										[0, null, !1, null, 0xcf8b5d4173249, [],
 											[
-												[152, v.prototype.b.pe, null, 6425544497426407, !1, [
-													[7, [23, "SPANISH"]],
-													[0, [0, 0]],
-													[3, 0]
-												]],
-												[152, v.prototype.b.pe, null, 5556979491196186, !1, [
+													[152, v.prototype.b.pe, null, 5556979491196186, !1, [
 													[7, [23, "ENGLISH"]],
 													[0, [0, 1]],
 													[3, 0]
@@ -45758,56 +45741,6 @@ function fc() {
 													[0, [0, 2]],
 													[3, 0]
 												]],
-												[152, v.prototype.b.pe, null, 0x759ec618fdd95, !1, [
-													[7, [23, "GERMAN"]],
-													[0, [0, 3]],
-													[3, 0]
-												]],
-												[152, v.prototype.b.pe, null, 684323310396683, !1, [
-													[7, [23, "FRENCH"]],
-													[0, [0, 4]],
-													[3, 0]
-												]],
-												[152, v.prototype.b.pe, null, 8747613153506791, !1, [
-													[7, [23, "INDONESIAN"]],
-													[0, [0, 5]],
-													[3, 0]
-												]],
-												[152, v.prototype.b.pe, null, 0xcdad7883dae6b, !1, [
-													[7, [23, "ITALIAN"]],
-													[0, [0, 6]],
-													[3, 0]
-												]],
-												[152, v.prototype.b.pe, null, 0x4b37084026fdd, !1, [
-													[7, [23, "DUTCH"]],
-													[0, [0, 7]],
-													[3, 0]
-												]],
-												[152, v.prototype.b.pe, null, 0x7653f731c7689, !1, [
-													[7, [23, "POLISH"]],
-													[0, [0, 8]],
-													[3, 0]
-												]],
-												[152, v.prototype.b.pe, null, 0x39ed6cb929ec7, !1, [
-													[7, [23, "PORTUGUESE"]],
-													[0, [0, 9]],
-													[3, 0]
-												]],
-												[152, v.prototype.b.pe, null, 506197048232202, !1, [
-													[7, [23, "RUSSIAN"]],
-													[0, [0, 10]],
-													[3, 0]
-												]],
-												[152, v.prototype.b.pe, null, 6278907054998159, !1, [
-													[7, [23, "SWEDISH"]],
-													[0, [0, 11]],
-													[3, 0]
-												]],
-												[152, v.prototype.b.pe, null, 0x4c8da72ccc45c, !1, [
-													[7, [23, "TURKISH"]],
-													[0, [0, 12]],
-													[3, 0]
-												]]
 											]
 										]
 									]
@@ -45893,11 +45826,6 @@ function fc() {
 													],
 													[
 														[0, null, !1, null, 5959986057367544, [
-																[-1, l.prototype.j.G, null, 0, !1, !1, !1, 8582632249950681, !1, [
-																	[7, [23, "LanguageCode"]],
-																	[8, 1],
-																	[7, [23, "SPANISH"]]
-																]],
 																[-1, l.prototype.j.G, null, 0, !1, !1, !1, 9785147125155702, !1, [
 																	[7, [23, "LanguageCode"]],
 																	[8, 1],
@@ -45908,56 +45836,6 @@ function fc() {
 																	[8, 1],
 																	[7, [23, "CHINESE"]]
 																]],
-																[-1, l.prototype.j.G, null, 0, !1, !1, !1, 5862204761255213, !1, [
-																	[7, [23, "LanguageCode"]],
-																	[8, 1],
-																	[7, [23, "GERMAN"]]
-																]],
-																[-1, l.prototype.j.G, null, 0, !1, !1, !1, 8336197745492645, !1, [
-																	[7, [23, "LanguageCode"]],
-																	[8, 1],
-																	[7, [23, "FRENCH"]]
-																]],
-																[-1, l.prototype.j.G, null, 0, !1, !1, !1, 585445294950035, !1, [
-																	[7, [23, "LanguageCode"]],
-																	[8, 1],
-																	[7, [23, "INDONESIAN"]]
-																]],
-																[-1, l.prototype.j.G, null, 0, !1, !1, !1, 6118368034440691, !1, [
-																	[7, [23, "LanguageCode"]],
-																	[8, 1],
-																	[7, [23, "ITALIAN"]]
-																]],
-																[-1, l.prototype.j.G, null, 0, !1, !1, !1, 0xdad49338dcbc0, !1, [
-																	[7, [23, "LanguageCode"]],
-																	[8, 1],
-																	[7, [23, "DUTCH"]]
-																]],
-																[-1, l.prototype.j.G, null, 0, !1, !1, !1, 7439838510901539, !1, [
-																	[7, [23, "LanguageCode"]],
-																	[8, 1],
-																	[7, [23, "POLISH"]]
-																]],
-																[-1, l.prototype.j.G, null, 0, !1, !1, !1, 6006721468560366, !1, [
-																	[7, [23, "LanguageCode"]],
-																	[8, 1],
-																	[7, [23, "PORTUGUESE"]]
-																]],
-																[-1, l.prototype.j.G, null, 0, !1, !1, !1, 0x8dd4f670da931, !1, [
-																	[7, [23, "LanguageCode"]],
-																	[8, 1],
-																	[7, [23, "RUSSIAN"]]
-																]],
-																[-1, l.prototype.j.G, null, 0, !1, !1, !1, 0x8193a75a61f4f, !1, [
-																	[7, [23, "LanguageCode"]],
-																	[8, 1],
-																	[7, [23, "SWEDISH"]]
-																]],
-																[-1, l.prototype.j.G, null, 0, !1, !1, !1, 9580110818667316, !1, [
-																	[7, [23, "LanguageCode"]],
-																	[8, 1],
-																	[7, [23, "TURKISH"]]
-																]]
 															],
 															[],
 															[
