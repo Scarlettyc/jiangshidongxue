@@ -43383,9 +43383,6 @@ function fc() {
 							[],
 							[
 								[0, null, !1, null, 0x90f0fb347662f, [
-										[-1, l.prototype.j.Ia, null, 0, !1, !0, !1, 7421515025450755, !1, [
-											[5, [2, "Credits"]]
-										]],
 										[-1, l.prototype.j.Ia, null, 0, !1, !0, !1, 0x4dd3bc0b73510, !1, [
 											[5, [2, "flags"]]
 										]]
